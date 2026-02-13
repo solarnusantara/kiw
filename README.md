@@ -1,66 +1,176 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Kiwi Sonus - Technical Documentation
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+This document provides a comprehensive technical guide for developers working on the Kiwi Sonus project. It covers the application's architecture, technology stack, installation procedures, and key development workflows.
 
-## About Laravel
+## Table of Contents
+1.  [Project Overview](#1-project-overview)
+2.  [Core Features](#2-core-features)
+3.  [Technology Stack](#3-technology-stack)
+4.  [Architectural Deep-Dive](#4-architectural-deep-dive)
+    - [Custom Addon System](#a-custom-addon-system)
+    - [Manual Database Update Process](#b-manual-database-update-process)
+    - [Background Job Processing](#c-background-job-processing)
+5.  [Getting Started](#5-getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Environment Configuration](#environment-configuration)
+6.  [Development Workflow](#6-development-workflow)
+7.  [API & Authentication](#7-api--authentication)
+8.  [Testing](#8-testing)
+9.  [Deployment Notes](#9-deployment-notes)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 1. Project Overview
+Kiwi Sonus is a sophisticated, multi-vendor e-commerce marketplace platform. It is designed with a service-oriented architecture, where a Vue.js single-page application (SPA) consumes a robust backend API built on Laravel. The platform supports a wide range of e-commerce functionalities, from inventory management to complex order fulfillment and marketing campaigns.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 2. Core Features
+The application is functionally modularized into several key components:
+- **Admin Panel**: A central dashboard for site-wide management, including user roles, product catalogs, system settings, and financial oversight.
+- **Seller Panel**: A dedicated interface for vendors to manage their products, track inventory, process orders, and view sales analytics.
+- **Delivery Management (Delivery Boy)**: A module for couriers to manage and track package pickups and deliveries.
+- **Point of Sale (POS)**: A cashier interface designed for processing in-person sales, integrated with the central inventory system.
+- **Affiliate System**: Enables marketing partners to earn commissions by driving sales, with tracking and payment management.
+- **Refund System**: A structured workflow for managing customer refund requests and processing returns.
 
-## Learning Laravel
+## 3. Technology Stack
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Backend
+- **Framework**: PHP 8.2 / Laravel 10
+- **API Authentication**: `laravel/passport` (OAuth2)
+- **Role-Based Access Control (RBAC)**: `spatie/laravel-permission`
+- **Data Processing**: `maatwebsite/excel` for Excel/CSV imports and exports.
+- **Payment Gateway Integrations**: Includes providers like `stripe/stripe-php` and `xendit/xendit-php`.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Frontend
+- **Framework**: Vue.js 3 (utilizing the Composition API)
+- **Build Tool**: Vite
+- **UI Framework**: Vuetify 3
+- **State Management**: Vuex 4
+- **Routing**: Vue Router 4
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Database
+- The application uses Laravel's Eloquent ORM, making it compatible with multiple database systems (MySQL, PostgreSQL, etc.). It is primarily developed and tested on **MySQL/MariaDB**.
 
-## Laravel Sponsors
+## 4. Architectural Deep-Dive
+This project employs several non-standard architectural patterns that are critical for developers to understand.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### a. Custom Addon System
+To maintain modularity, major features like **Affiliate** and **Refund** are implemented as "Addons" rather than being integrated directly into the core `app` directory.
+- **Location**: Addon source code resides in `app/Addons/`.
+- **Mechanism**: The `app/LaravelAddons/AddonManager.php` is the orchestrator. On application boot, it scans `app/Addons` for valid `addon.json` manifest files. For each valid addon found, it dynamically registers the addon's namespace using a custom `ClassLoader` and then boots the addon's dedicated Service Provider. This allows each addon to register its own routes, views, and dependencies in a self-contained manner.
 
-### Premium Partners
+### b. Manual Database Update Process
+In addition to standard Eloquent migrations, the project uses a manual SQL update mechanism for complex schema changes or critical data patches.
+- **Location**: Raw SQL files are stored in `sqlupdates/`.
+- **Mechanism**: The `app/Http/Controllers/UpdateController.php` contains the logic to execute these scripts sequentially. This is typically triggered from a protected route in the admin panel.
+- **CRITICAL WARNING**: This process is **stateful and not idempotent**. Scripts are executed based on versioning and must be run in the correct order. This is a mandatory step in the post-deployment checklist to ensure database integrity.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+### c. Background Job Processing
+The application offloads long-running tasks to a queue to prevent HTTP timeouts and improve user experience.
+- **Examples**: `EditBulkUploadJob` (processing large product imports) and `ExportProductJob` (generating large reports).
+- **Configuration**: The queue driver is configured in `config/queue.php`. For production, a robust driver like `redis` or `database` should be used instead of the default `sync`.
+- **Execution**: A queue worker must be run in the production environment using a command like `php artisan queue:work`.
 
-## Contributing
+## 5. Getting Started
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Prerequisites
+- PHP >= 8.2 (with required extensions: `pdo`, `mbstring`, `openssl`, etc.)
+- Composer 2.x
+- Node.js >= 18.x & NPM
+- A compatible database server (e.g., MySQL 8.0)
 
-## Code of Conduct
+### Installation
+1.  **Clone the repository:**
+    ```bash
+    git clone [YOUR_REPOSITORY_URL]
+    cd kiw.sonus.id
+    ```
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+2.  **Install backend dependencies:**
+    ```bash
+    composer install
+    ```
 
-## Security Vulnerabilities
+3.  **Create and configure the `.env` file:**
+    ```bash
+    cp .env.example .env
+    php artisan key:generate
+    ```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+4.  **Set up the database and services:**
+    - Run migrations and seed the database with initial data.
+      ```bash
+      php artisan migrate --seed
+      ```
+    - Install Laravel Passport keys for OAuth2.
+      ```bash
+      php artisan passport:install
+      ```
 
-## License
+5.  **Install frontend dependencies:**
+    ```bash
+    npm install
+    ```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Environment Configuration
+Open the `.env` file and configure the following critical variables:
+```ini
+APP_NAME="Kiwi Sonus"
+APP_ENV=local
+APP_DEBUG=true
+APP_URL=http://localhost:8000
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=kiwi_sonus
+DB_USERNAME=root
+DB_PASSWORD=
+
+# Configure Mail, Queue, and Payment Gateway credentials as needed
+MAIL_MAILER=smtp
+QUEUE_CONNECTION=database
+STRIPE_KEY=...
+XENDIT_SECRET_KEY=...
+```
+
+## 6. Development Workflow
+For local development, you need to run two separate processes concurrently in separate terminal sessions:
+
+1.  **Backend Server (Laravel):**
+    ```bash
+    php artisan serve
+    ```
+
+2.  **Frontend Server (Vite):** This provides hot-reloading for Vue components.
+    ```bash
+    npm run dev
+    ```
+The application will be accessible at the URL provided by Vite (e.g., `http://localhost:5173`).
+
+## 7. API & Authentication
+The application is API-driven. The backend exposes a set of protected endpoints that the Vue.js frontend consumes.
+- **Authentication**: Handled by Laravel Passport. Clients must obtain an OAuth2 Bearer Token from the relevant endpoints. This token must be included in the `Authorization` header for all subsequent API requests.
+- **API Routes**: Defined in `routes/api.php` and are protected by the `auth:api` middleware group.
+- **Guard Configuration**: The API authentication guard is configured in `config/auth.php`.
+
+## 8. Testing
+To run the PHPUnit test suite for the backend, use the following Artisan command:
+```bash
+php artisan test
+```
+
+## 9. Deployment Notes
+- **Build Process**: For production, frontend assets **must** be built using `npm run build`. The backend requires `composer install --no-dev --optimize-autoloader`.
+- **IIS / Windows Server**: The presence of a `web.config` file indicates that this application is configured for deployment on a Windows Server using IIS. This is a key environmental consideration.
+- **Post-Deployment Checklist**: After deploying new code, always run the following commands:
+  ```bash
+  php artisan migrate --force
+  php artisan passport:install # If not already run
+  # Manually trigger the sqlupdates process from the admin panel
+  php artisan config:cache
+  php artisan route:cache
+  php artisan view:cache
+  ```
+- **Queue Worker**: In a production environment, configure a robust service manager (like `Supervisor` on Linux or a Windows Service) to keep the `php artisan queue:work` process running continuously.
