@@ -116,7 +116,7 @@ The application offloads long-running tasks to a queue to prevent HTTP timeouts 
 ### Environment Configuration
 Open the `.env` file and configure the following critical variables:
 ```ini
-APP_NAME="KIW"
+APP_NAME=[APP_NAME]
 APP_ENV=local
 APP_DEBUG=true
 APP_URL=http://localhost:8000
@@ -124,7 +124,7 @@ APP_URL=http://localhost:8000
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=kiwi_sonus
+DB_DATABASE=[DB_NAME]
 DB_USERNAME=root
 DB_PASSWORD=
 
