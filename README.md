@@ -1,4 +1,4 @@
-# Kiwi Sonus - Technical Documentation
+# KIW - Technical Documentation
 
 This document provides a comprehensive technical guide for developers working on the Kiwi Sonus project. It covers the application's architecture, technology stack, installation procedures, and key development workflows.
 
@@ -83,7 +83,7 @@ The application offloads long-running tasks to a queue to prevent HTTP timeouts 
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/solarnusantara/kiw.git
     cd kiw.sonus.id
     ```
 
@@ -116,7 +116,7 @@ The application offloads long-running tasks to a queue to prevent HTTP timeouts 
 ### Environment Configuration
 Open the `.env` file and configure the following critical variables:
 ```ini
-APP_NAME="Kiwi Sonus"
+APP_NAME="KIW"
 APP_ENV=local
 APP_DEBUG=true
 APP_URL=http://localhost:8000
