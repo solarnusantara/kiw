@@ -1,0 +1,2266 @@
+"id","lang","lang_key","lang_value","created_at","updated_at"
+"1","en","all_products","All products
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"2","en","add_new_product","Add New Product","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"3","en","sort_by","Sort by
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"4","en","rating_high__low","Rating (High > Low)","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"5","en","rating_low__high","Rating (Low > High)","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"6","en","num_of_sale_high__low","Num of Sale (High > Low)","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"7","en","num_of_sale_low__high","Num of Sale (Low > High)","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"8","en","base_price_high__low","Base Price (High > Low)","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"9","en","base_price_low__high","Base Price (Low > High)","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"10","en","type__enter","Type & Enter","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"11","en","name","Name
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"12","en","info","Info
+","31/10/2021 14:41:09","13/3/2022 11:14:03"
+"13","en","categories","Categories
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"14","en","brand","Brand
+","31/10/2021 14:41:09","17/7/2024 06:54:01"
+"15","en","published","Published","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"16","en","options","Options
+","31/10/2021 14:41:09","31/10/2021 14:45:43"
+"17","en","rating","Rating
+","31/10/2021 14:41:09","31/10/2021 14:45:44"
+"18","en","toal_sold","Toal Sold","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"19","en","price","Price
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"20","en","edit","Edit
+","31/10/2021 14:41:09","31/10/2021 14:45:43"
+"21","en","duplicate","Duplicate","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"22","en","delete","Delete
+","31/10/2021 14:41:09","31/10/2021 14:45:43"
+"23","en","delete_confirmation","Delete Confirmation","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"24","en","are_you_sure_to_delete_this","Are you sure to delete this?","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"25","en","all_data_related_to_this_will_be_deleted","All data related to this will be deleted.","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"26","en","cancel","Cancel
+","31/10/2021 14:41:09","31/10/2021 14:45:42"
+"27","en","yes_delete","Yes, Delete","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"28","en","published_products_updated_successfully","Published products updated successfully","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"29","en","something_went_wrong","Something went wrong
+","31/10/2021 14:41:09","3/11/2021 15:08:21"
+"30","en","nothing_selected","Nothing selected","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"31","en","nothing_found","Nothing found","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"32","en","choose_file","Choose file","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"33","en","file_selected","File selected","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"34","en","files_selected","Files selected","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"35","en","add_more_files","Add more files","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"36","en","adding_more_files","Adding more files","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"37","en","drop_files_here_paste_or","Drop files here, paste or","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"38","en","browse","Browse","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"39","en","upload_complete","Upload complete","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"40","en","upload_paused","Upload paused","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"41","en","resume_upload","Resume upload","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"42","en","pause_upload","Pause upload","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"43","en","retry_upload","Retry upload","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"44","en","cancel_upload","Cancel upload","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"45","en","uploading","Uploading","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"46","en","processing","Processing","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"47","en","complete","Complete","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"48","en","file","File","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"49","en","files","Files","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"50","en","dashboard","Dashboard
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"51","en","product","Product
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"52","en","products","products
+","31/10/2021 14:41:09","31/10/2021 14:45:41"
+"53","en","category","Category","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"54","en","attributes","Attributes","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"55","en","reviews","Reviews","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"56","en","orders","Orders","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"57","en","customers","Customers","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"58","en","marketing","Marketing","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"59","en","offers","Offers","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"60","en","newsletters","Newsletters","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"61","en","subscribers","Subscribers","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"62","en","coupon","Coupon","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"63","en","uploaded_files","Uploaded Files","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"64","en","support","Support","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"65","en","website_setup","Website Setup","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"66","en","header","Header","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"67","en","footer","Footer","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"68","en","banners","Banners","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"69","en","pages","Pages","31/10/2021 14:41:09","31/10/2021 14:41:09"
+"70","en","appearance","Appearance","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"71","en","settings","Settings","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"72","en","general_settings","General Settings","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"73","en","languages","Languages","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"74","en","currency","Currency","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"75","en","smtp_settings","SMTP Settings","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"76","en","payment_methods","Payment Methods","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"77","en","file_system_configuration","File System Configuration","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"78","en","social_media_logins","Social media Logins","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"79","en","third_party_settings","Third Party Settings","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"80","en","shipping","Shipping","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"81","en","shipping_countries","Shipping Countries","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"82","en","shipping_states","Shipping States","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"83","en","shipping_cities","Shipping Cities","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"84","en","shipping_zones","Shipping Zones","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"85","en","tax","Tax
+","31/10/2021 14:41:10","31/10/2021 14:45:42"
+"86","en","staffs","Staffs","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"87","en","all_staffs","All Staffs","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"88","en","roles","Roles","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"89","en","system","System","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"90","en","update","Update
+","31/10/2021 14:41:10","31/10/2021 14:45:42"
+"91","en","server_status","Server status","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"92","en","addon_manager","Addon Manager","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"93","en","browse_website","Browse Website","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"94","en","add_new","Add New
+","31/10/2021 14:41:10","31/10/2021 14:45:42"
+"95","en","add_new_coupon","Add new coupon","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"96","en","add_new_offer","Add New Offer","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"97","en","add_new_staff","Add New Staff","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"98","en","notifications","Notifications","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"99","en","new_notification","New Notification","31/10/2021 14:41:10","31/10/2021 14:41:10"
+"100","en","profile","Profile
+","31/10/2021 14:41:10","31/10/2021 14:45:43"
+"101","en","logout","Logout
+","31/10/2021 14:41:10","31/10/2021 14:45:41"
+"102","en","edit_product","Edit Product","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"103","en","product_information","Product Information","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"104","en","product_name","Product Name
+","31/10/2021 14:41:32","17/5/2022 11:03:21"
+"105","en","translatable","Translatable","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"106","en","unit","Unit","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"107","en","unit_eg_500_gram_2_litre_5_pc_etc","Unit (e.g. 500 Gram, 2 Litre, 5 Pc etc)","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"108","en","minimum_purchase_qty","Minimum Purchase Qty","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"109","en","customer_need_to_purchase_this_minimum_quatity_for_this_product_minimum_should_be_1","Customer need to purchase this minimum quatity for this product. Minimum should be 1.","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"110","en","maximum_purchase_qty","Maximum Purchase Qty","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"111","en","customer_will_be_able_to_purchase_this_maximum_quatity_for_this_product_default_0_for_unlimited","Customer will be able to purchase this maximum quatity for this product. Default 0 for unlimited.","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"112","en","product_images","Product Images","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"113","en","thumbnail_image","Thumbnail Image","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"114","en","this_image_is_visible_in_all_product_box_use_300x300_sizes_image_keep_some_blank_space_around_the_main_object_of_your_image_as_we_had_to_crop_some_edge_in_different_devices_to_make_it_responsive","This image is visible in all product box. Use 300x300 sizes image. Keep some blank space around the main object of your image as we had to crop some edge in different devices to make it responsive.","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"115","en","gallery_images","Gallery Images","31/10/2021 14:41:32","31/10/2021 14:41:32"
+"116","en","these_images_are_visible_in_the_product_details_page_gallery_use_600x600_or_higher_sizes_images_for_better_quality_but_try_to_keep_file_size_low_as_itll_increase_page_load_time","These images are visible in the product details page gallery. Use 600x600 or higher sizes images for better quality. But try to keep file size low as it'll increase page load time.","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"117","en","product_price_stock","Product price, stock","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"118","en","variant_product","Variant Product","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"119","en","regular_price","Regular price","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"120","en","sku","SKU","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"121","en","stock","Stock","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"122","en","in_stock","In Stock
+","31/10/2021 14:41:33","31/10/2021 14:45:42"
+"123","en","out_of_stock","Out of Stock
+","31/10/2021 14:41:33","31/10/2021 14:45:42"
+"124","en","select_an_option_for_this_product_and_then_select_choices_of_each_option_max_3_options","Select an option for this product and then select choices of each option. Max 3 options","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"125","en","select_an_option","Select an option","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"126","en","variant","Variant","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"127","en","variant_price","Variant Price","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"128","en","image","Image
+","31/10/2021 14:41:33","17/7/2024 06:54:01"
+"129","en","product_discount","Product Discount","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"130","en","discount_date_range","Discount Date Range","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"131","en","discount","Discount
+","31/10/2021 14:41:33","31/10/2021 14:45:42"
+"132","en","flat","Flat","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"133","en","percent","Percent","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"134","en","shipping_information","Shipping Information","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"135","en","standard_delivery_time","Standard delivery time","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"136","en","express_delivery_time","Express delivery time","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"137","en","weight","Weight","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"138","en","height","Height","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"139","en","length","Length","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"140","en","width","Width","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"141","en","product_description","Product Description","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"142","en","description","Description
+","31/10/2021 14:41:33","31/10/2021 14:45:43"
+"143","en","product_attributes","Product attributes","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"144","en","add_new_attribute","Add new attribute","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"145","en","these_attributes_will_be_used_only_for_filtering","These attributes will be used only for filtering.","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"146","en","seo_meta_tags","SEO Meta Tags","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"147","en","meta_title","Meta Title","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"148","en","meta_image","Meta Image","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"149","en","slug","Slug","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"150","en","product_status","Product Status","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"151","en","draft","Draft","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"152","en","product_brand","Product Brand","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"153","en","select_brand","Select Brand","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"154","en","product_category","Product Category","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"155","en","product_tags","Product Tags","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"156","en","type_and_hit_enter_to_add_a_tag","Type and hit enter to add a tag","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"157","en","these_will_be_used_for_product_search","These will be used for product search.","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"158","en","vat__tax","VAT & Tax","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"159","en","sorry_for_the_inconvenience_but_were_working_on_it","Sorry for the inconvenience, but we're working on it.","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"160","en","error_code","Error code","31/10/2021 14:41:33","31/10/2021 14:41:33"
+"161","en","warranty","Warranty","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"162","en","warranty_available_for_this_product","Warranty available for this product?","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"163","en","update_product","Update Product","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"164","en","please_select_an_attribute","Please select an attribute.","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"165","en","no_more_arrtribute_found","No more arrtribute found.","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"166","en","maximum_option_limit_reached","Maximum option limit reached.","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"167","en","please_select_an_option","Please select an option.","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"168","en","no_more_option_found","No more option found.","31/10/2021 14:43:59","31/10/2021 14:43:59"
+"169","en","product_has_been_updated_successfully","Product has been updated successfully","31/10/2021 14:44:08","31/10/2021 14:44:08"
+"170","en","product_not_found","Product not found","31/10/2021 14:45:19","31/10/2021 14:45:19"
+"171","en","popular_categories","Popular Categories
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"172","en","todays_deal","Todays Deal
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"173","en","get_your_special_offers_coupons__more","Get your special offers, Coupons & More...
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"174","en","contact_us","Contact Us
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"175","en","mobile_apps","Mobile Apps
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"176","en","address","Address
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"177","en","email","Email
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"178","en","phone","Phone
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"179","en","subscribe","Subscribe
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"180","en","your_email_address","Your email address
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"181","en","forgot_password","forgot password
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"182","en","or","or
+","31/10/2021 14:45:41","15/12/2024 10:53:08"
+"183","en","play_store","Play Store
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"184","en","app_store","App Store
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"185","en","track_order","Track Order
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"186","en","help_line","Help Line
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"187","en","wishlist","Wishlist
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"188","en","search","Search
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"189","en","login","Login
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"190","en","registration","Registration
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"191","en","register","Register
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"192","en","talk_with_us","Talk With Us
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"193","en","you_have_to","You have to
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"194","en","as_a_customer_to_contact_us","as a customer to contact us
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"195","en","most_popular","Most popular
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"196","en","latest_first","Latest first
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"197","en","oldest_first","Oldest first
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"198","en","higher_price_first","Higher price first
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"199","en","lower_price_first","Lower price first
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"200","en","higher_rating_first","Higher rating first
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"201","en","lower_rating_first","Lower rating first
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"202","en","all_star","All Star
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"203","en","star","star
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"204","en","total","Total
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"205","en","products_found","products found
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"206","en","search_results_for","Search results for
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"207","en","no_product_found","No product found
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"208","en","min_price","min price
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"209","en","max_price","max price
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"210","en","go","Go
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"211","en","filters","Filters
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"212","en","unit_price","Unit price
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"213","en","discounted_price","Discounted price
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"214","en","total_price","Total Price
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"215","en","brands","Brands
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"216","en","order_code","Order Code
+","31/10/2021 14:45:41","15/12/2024 10:53:08"
+"217","en","track","Track
+","31/10/2021 14:45:41","24/4/2022 06:24:39"
+"218","en","all_categories","All categories
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"219","en","all_brands","All brands
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"220","en","all_offers","All offers
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"221","en","estimated_delivery_time","Estimated delivery time
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"222","en","days","days
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"223","en","view_other_products","View other products
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"224","en","add_to_cart","Add to Cart
+","31/10/2021 14:45:41","31/10/2021 14:45:41"
+"225","en","view_all","View All
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"226","en","a_verification_code_has_been_sent_to_your_email","A verification code has been sent to your email.
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"227","en","payment_failed","Payment failed!!
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"228","en","your_order_has_been_placed_but_failed_to_complete_the_payment_please_try_again_or_contact_our_support","Your order has been placed. But failed to complete the payment. Please try again or contact our support.
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"229","en","try_again","Try again
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"230","en","close","Close
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"231","en","addresses","Addresses
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"232","en","postal_code","Postal Code
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"233","en","country","Country
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"234","en","state","State
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"235","en","select_country","Select country
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"236","en","phone_number","Phone Number
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"237","en","select_a_city","Select a city
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"238","en","select_a_state","Select a state
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"239","en","this_field_is_required","This field is required.
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"240","en","this_field_is_required_a_valid_email","This field is required a valid email.
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"241","en","password_must_be_minimum_6_characters","Password must be minimum 6 characters.
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"242","en","password_and_confirm_password_should_match","Password and confirm password should match.
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"243","en","login_with","Login with
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"244","en","account","Account
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"245","en","email_address","Email address
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"246","en","signup","Signup
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"247","en","dont_have_an_account","Don't have an account
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"248","en","search_for_products_brands_and_more","Search for products, brands and more...
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"249","en","no","No
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"250","en","yes","Yes
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"251","en","items","item(s)
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"252","en","have_a_code","Have a code?
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"253","en","change","Change
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"254","en","apply","Apply
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"255","en","checkout","Checkout
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"256","en","please_select_a_cart_product","Please select a cart product
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"257","en","order_placed","Order Placed
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"258","en","confirmed","Confirmed
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"259","en","shipped","Shipped
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"260","en","delivered","Delivered
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"261","en","order_summary","Order Summary
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"262","en","shipping_address","Shipping Address
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"263","en","total_order_amount","Total Order Amount
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"264","en","payment_method","Payment Method
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"265","en","payment_status","Payment Status
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"266","en","billing_address","Billing Address
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"267","en","order_details","Order Details
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"268","en","quantity","Quantity
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"269","en","unit_tax","Unit tax
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"270","en","sub_total","Sub Total
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"271","en","shipping_charge","Shipping Charge
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"272","en","coupon_discount","Coupon discount
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"273","en","off","OFF
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"274","en","out_of","Out of
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"275","en","ratings","Ratings
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"276","en","product_reviews","Product Reviews
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"277","en","sort","Sort
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"278","en","no_reviews_found_for_this_product","No reviews found for this product
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"279","en","purchase_history","Purchase History
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"280","en","manage_profile","Manage Profile
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"281","en","my_wallet","My Wallet
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"282","en","payment_options","Payment Options
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"283","en","recharge_amount","Recharge Amount
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"284","en","recharge_wallet","Recharge Wallet
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"285","en","please_select_a_payment_method","Please select a payment method
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"286","en","please_input_recharge_amount","Please input recharge amount
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"287","en","amount","Amount
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"288","en","forgot","FORGOT
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"289","en","password","Password
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"290","en","old_password","Old Password
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"291","en","enter_your_email_address_to_recover_your_password","Enter your email address to recover your password
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"292","en","send_password_reset_code","Send Password Reset Code
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"293","en","back_to","Back to
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"294","en","reset","RESET
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"295","en","code","Code
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"296","en","enter_your_email_address_code__new_password","Enter your email address, Code & New Password
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"297","en","confirm_password","Confirm Password
+","31/10/2021 14:45:42","31/10/2021 14:45:42"
+"298","en","reset_password","Reset Password
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"299","en","welcome_to","WELCOME TO
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"300","en","full_name","Full Name
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"301","en","phone_number_must_be_valid","Phone number must be valid.
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"302","en","by_signing_up_you_agree_to_our","By signing up you agree to our
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"303","en","terms_and_conditions","terms and conditions
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"304","en","create_account","Create Account
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"305","en","join_with","Join With
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"306","en","verify","Verify
+","31/10/2021 14:45:43","15/12/2024 10:53:08"
+"307","en","enter_your_email_address_verification_code","Enter your email address, verification code
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"308","en","resend_code","Resend Code
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"309","en","the_page_you_are_looking_was_not","THE PAGE YOU ARE LOOKING WAS NOT
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"310","en","in_this_planet","IN THIS PLANET
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"311","en","back_to_home","BACK TO HOME
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"312","en","newly_added_products","Newly Added Products
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"313","en","wallet_balance","Wallet Balance
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"314","en","last_recharge","Last Recharge
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"315","en","products_in_your_cart","Products in Your Cart
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"316","en","products_in_your_wishlist","Products in Your Wishlist
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"317","en","products_you_ordered","Products You Ordered
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"318","en","recent_purchase_history","Recent Purchase History
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"319","en","my_wishlist","My Wishlist
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"320","en","default_shipping_address","Default Shipping Address
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"321","en","add_new_address","Add New Address
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"322","en","recently_viewed","Recently Viewed
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"323","en","profile_information","Profile Information
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"324","en","new_password","New Password
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"325","en","profile_image","Profile Image
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"326","en","select_image","Select Image
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"327","en","default_billing_address","Default Billing Address
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"328","en","all_addresses","All Addresses
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"329","en","mark_as_default_shipping_address","Mark as default shipping address
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"330","en","mark_as_default_billing_address","Mark as default billing address
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"331","en","no_saved_address","No saved address
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"332","en","loading_please_wait","Loading please wait
+","31/10/2021 14:45:43","15/12/2024 10:53:08"
+"333","en","details","Details
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"334","en","delivery_status","Delivery Status
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"335","en","generating_invoice","Generating invoice...
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"336","en","confirm_cancel","Confirm cancel
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"337","en","are_you_sure_you_want_to_cancel_this_order","Are you sure you want to cancel this order?
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"338","en","cancelling_order","Cancelling order...
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"339","en","wallet_recharge_history","Wallet Recharge History
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"340","en","date","Date
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"341","en","no_product_wishlisted","No product wishlisted
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"342","en","delivery_option","Delivery Option
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"343","en","standard_delivery","Standard Delivery
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"344","en","delivery_cost","Delivery cost
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"345","en","express_delivery","Express Delivery
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"346","en","sorry_delivery_is_not_available_in_this_shipping_address","Sorry, delivery is not available in this shipping address.
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"347","en","total_to_pay","TOTAL TO PAY
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"348","en","your_wallet_balance","Your wallet balance
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"349","en","remaining_balance","Remaining balance
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"350","en","by_clicking_proceed_i_agree_to","By clicking proceed, I agree to
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"351","en","proceed","Proceed
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"352","en","thank_you_for_your_order","Thank You for Your Order
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"353","en","a_copy_of_your_order_summary_has_been_sent_to","A copy of your order summary has been sent to
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"354","en","remove_from_wishlist","Remove from Wishlist
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"355","en","add_to_wishlist","Add to Wishlist
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"356","en","ask_about_this_product","Ask about this product
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"357","en","share","Share
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"358","en","rating__reviews","Rating & Reviews
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"359","en","frequently_bought_together","Frequently Bought Together
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"360","en","more_items_to_explore","More Items to Explore
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"361","en","warranty_available","Warranty Available
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"362","en","view_warranty_policy","View Warranty Policy
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"363","en","related_products","Related Products
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"364","en","please_select_all_options","Please select all options
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"365","en","this_product_is_out_of_stock","This product is out of stock
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"366","en","you_need_to_purchase_minimum_quantity","You need to purchase minimum quantity
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"367","en","you_can_purchase_maximum_quantity","You can purchase maximum quantity
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"368","en","product_added_to_cart","Product added to cart.
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"369","en","track_your_order","Track your order
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"370","en","wallet_successfully_recharged","Wallet successfully recharged!
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"371","en","wallet_recharge_failed","Wallet recharge failed!
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"372","en","login_successfull","Login successfull.
+","31/10/2021 14:45:43","31/10/2021 14:45:43"
+"373","en","applied_coupon_code_is_no_applicable_for_your_selected_cart_products","Applied coupon code is no applicable for your selected cart products.
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"374","en","minimum_order_total_of","Minimum order total of
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"375","en","is_required_to_use_applied_coupon_code","is required to use applied coupon code.
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"376","en","delivery_type","Delivery type
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"377","en","rate_and_review_purchased_product","Rate and review purchased product
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"378","en","submit","Submit
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"379","en","write_a_review","Write a review
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"380","en","view_details","View details
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"381","en","download_invoice","Download invoice
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"382","en","cancel_order","Cancel order
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"383","en","this_product_is_not_available","This product is not available.
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"384","en","comment","Comment
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"385","en","youve_already_reviewed_this_product_you_can_update_the_review","You've already reviewed this product. You can update the review.
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"386","en","your_review_has_been_disabled","Your review has been disabled.
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"387","en","home","Home
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"388","en","messages","Messages
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"389","en","cart","Cart
+","31/10/2021 14:45:44","31/10/2021 14:45:44"
+"390","en","change_language","Change language
+","31/10/2021 14:45:44","4/11/2021 14:49:42"
+"391","en","product_added_to_cart_successfully","Product added to cart successfully","31/10/2021 14:45:59","31/10/2021 14:45:59"
+"392","en","avatar","Avatar","31/10/2021 14:47:15","31/10/2021 14:47:15"
+"393","en","save","Save","31/10/2021 14:47:15","31/10/2021 14:47:15"
+"394","en","select_file","Select File","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"395","en","upload_new","Upload New","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"396","en","sort_by_newest","Sort by newest","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"397","en","sort_by_oldest","Sort by oldest","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"398","en","sort_by_smallest","Sort by smallest","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"399","en","sort_by_largest","Sort by largest","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"400","en","selected_only","Selected Only","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"401","en","no_files_found","No files found","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"402","en","0_file_selected","0 File selected","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"403","en","clear","Clear","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"404","en","prev","Prev","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"405","en","next","Next","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"406","en","add_files","Add Files","31/10/2021 14:47:18","31/10/2021 14:47:18"
+"407","en","total_customers","Total Customers","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"408","en","total_products","Total Products
+","31/10/2021 14:47:35","18/1/2022 00:46:47"
+"409","en","total_orders","Total Orders","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"410","en","total_sales","Total Sales","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"411","en","order_stat","Order Stat","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"412","en","total_category","Total Category","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"413","en","total_brands","Total Brands","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"414","en","coupons","Coupons
+","31/10/2021 14:47:35","15/11/2021 02:11:03"
+"415","en","confirmed_order","Confirmed Order","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"416","en","processed_order","Processed Order","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"417","en","order_delivered","Order Delivered","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"418","en","top_category","Top Category","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"419","en","top_brands","Top Brands","31/10/2021 14:47:35","31/10/2021 14:47:35"
+"420","en","order__sales","Order & Sales","31/10/2021 14:47:36","31/10/2021 14:47:36"
+"421","en","sales_by_category_","Sales by Category","31/10/2021 14:47:36","31/10/2021 14:47:36"
+"422","en","top_products","Top Products","31/10/2021 14:47:36","31/10/2021 14:47:36"
+"423","en","sales_","Sales ($)","31/10/2021 14:47:36","31/10/2021 14:47:36"
+"424","en","select_an_attribute","Select an attribute","31/10/2021 14:49:05","31/10/2021 14:49:05"
+"425","en","successfully_logged_out","Successfully logged out","31/10/2021 15:04:30","31/10/2021 15:04:30"
+"426","en","type_name__enter","Type name & Enter","1/11/2021 01:35:50","1/11/2021 01:35:50"
+"427","en","logo","Logo","1/11/2021 01:35:50","1/11/2021 01:35:50"
+"428","en","add_new_brand","Add New Brand","1/11/2021 01:35:50","1/11/2021 01:35:50"
+"429","en","120x80","120x80","1/11/2021 01:35:50","1/11/2021 01:35:50"
+"430","en","all_roles","All Roles","1/11/2021 01:36:00","1/11/2021 01:36:00"
+"431","en","add_new_role","Add New Role","1/11/2021 01:36:00","1/11/2021 01:36:00"
+"432","en","role_information","Role Information","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"433","en","role_name","Role Name","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"434","en","permissions","Permissions","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"435","en","role","Role","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"436","en","show_staff_roles","Show Staff Roles","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"437","en","add_staff_roles","Add Staff Roles","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"438","en","edit_staff_roles","Edit Staff Roles","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"439","en","delete_staff_roles","Delete Staff Roles","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"440","en","staff","Staff","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"441","en","show_staffs","Show Staffs","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"442","en","add_staffs","Add Staffs","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"443","en","edit_staffs","Edit Staffs","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"444","en","delete_staffs","Delete Staffs","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"445","en","show_dashboard","Show Dashboard","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"446","en","show_products","Show Products","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"447","en","add_products","Add Products","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"448","en","edit_products","Edit Products","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"449","en","duplicate_products","Duplicate Products","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"450","en","delete_products","Delete Products","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"451","en","show_categories","Show Categories","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"452","en","add_categories","Add Categories","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"453","en","edit_categories","Edit Categories","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"454","en","delete_categories","Delete Categories","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"455","en","show_brands","Show Brands","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"456","en","add_brands","Add Brands","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"457","en","edit_brands","Edit Brands","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"458","en","delete_brands","Delete Brands","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"459","en","attribute","Attribute","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"460","en","show_attributes","Show Attributes","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"461","en","add_attributes","Add Attributes","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"462","en","configure_attributes","Configure Attributes","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"463","en","edit_attributes","Edit Attributes","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"464","en","review","Review","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"465","en","show_reviews","Show Reviews","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"466","en","order","Order","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"467","en","show_orders","Show Orders","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"468","en","view_orders","View Orders","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"469","en","invoice_download","Invoice Download","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"470","en","delete_orders","Delete Orders","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"471","en","customer","Customer","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"472","en","show_customers","Show Customers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"473","en","delete_customers","Delete Customers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"474","en","offer","Offer","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"475","en","show_offers","Show Offers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"476","en","add_offers","Add Offers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"477","en","edit_offers","Edit Offers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"478","en","delete_offers","Delete Offers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"479","en","newsletter","Newsletter","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"480","en","send_newsletters","Send Newsletters","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"481","en","subscriber","Subscriber","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"482","en","show_subscribers","Show Subscribers","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"483","en","show_coupons","Show Coupons","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"484","en","add_coupons","Add Coupons","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"485","en","edit_coupons","Edit Coupons","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"486","en","delete_coupons","Delete Coupons","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"487","en","uploaded_file","Uploaded File","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"488","en","show_uploaded_files","Show Uploaded Files","1/11/2021 01:36:06","1/11/2021 01:36:06"
+"489","en","login_to_your_account","Login to your account.","1/11/2021 02:55:46","1/11/2021 02:55:46"
+"490","en","remember_me","Remember Me","1/11/2021 02:55:46","1/11/2021 02:55:46"
+"491","en","copy","Copy","1/11/2021 02:55:46","1/11/2021 02:55:46"
+"492","en","website_header","Website Header","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"493","en","header_setting","Header Setting","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"494","en","topbar_banner","Topbar Banner","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"495","en","topbar_banner_link","Topbar Banner Link","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"496","en","play_store_link","Play Store Link","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"497","en","app_store_link","App Store Link","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"498","en","helpline_number","Helpline number","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"499","en","header_logo","Header Logo","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"500","en","header_nav_menu","Header Nav Menu","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"501","en","label","Label","1/11/2021 05:08:30","1/11/2021 05:08:30"
+"502","en","general","General","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"503","en","website_theme_color","Website Theme Color","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"504","en","hex_color_code","Hex Color Code","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"505","en","global_seo","Global Seo","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"506","en","meta_description","Meta description","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"507","en","keywords","Keywords","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"508","en","separate_with_coma","Separate with coma","1/11/2021 05:08:48","1/11/2021 05:08:48"
+"509","en","server_information","Server information","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"510","en","current_version","Current Version","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"511","en","required_version","Required Version","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"512","en","status","Status
+","1/11/2021 05:09:08","13/3/2022 11:14:03"
+"513","en","phpini_config","php.ini Config","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"514","en","config_name","Config Name","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"515","en","current","Current","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"516","en","recommended","Recommended","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"517","en","extensions_information","Extensions information","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"518","en","extension_name","Extension Name","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"519","en","filesystem_permissions","Filesystem Permissions","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"520","en","file_or_folder","File or Folder","1/11/2021 05:09:08","1/11/2021 05:09:08"
+"521","en","update_your_system","Update your system","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"522","en","current_verion","Current verion","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"523","en","make_sure_your_server_has_matched_with_all_requirements","Make sure your server has matched with all requirements.","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"524","en","check_here","Check Here","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"525","en","download_latest_version_from_codecanyon","Download latest version from codecanyon.","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"526","en","extract_downloaded_zip_you_will_find_updateszip_file_in_those_extraced_files","Extract downloaded zip. You will find updates.zip file in those extraced files.","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"527","en","upload_that_zip_file_here_and_click_update_now","Upload that zip file here and click update now.","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"528","en","if_you_are_using_any_addon_make_sure_to_update_those_addons_after_updating","If you are using any addon make sure to update those addons after updating.","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"529","en","please_turn_off_maintenance_mode_before_updating","Please turn off maintenance mode before updating.","1/11/2021 05:09:35","1/11/2021 05:09:35"
+"530","en","page_not_found","Page not found!","1/11/2021 05:10:39","1/11/2021 05:10:39"
+"531","en","invalid_login_information","Invalid login information","1/11/2021 17:47:45","1/11/2021 17:47:45"
+"532","en","product_is_successfully_added_to_your_wishlist","Product is successfully added to your wishlist","1/11/2021 17:48:10","1/11/2021 17:48:10"
+"533","en","filter_by_payment_status","Filter by Payment Status","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"534","en","paid","Paid","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"535","en","unpaid","Unpaid","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"536","en","filter_by_deliver_status","Filter by Deliver Status","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"537","en","processed","Processed","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"538","en","cancelled","Cancelled
+","1/11/2021 22:41:03","18/1/2022 00:46:47"
+"539","en","type_order_code__hit_enter","Type Order code & hit Enter","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"540","en","num_of_products","Num. of Products","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"541","en","view","View","1/11/2021 22:41:03","1/11/2021 22:41:03"
+"542","en","all_zones","All Zones","1/11/2021 22:42:43","1/11/2021 22:42:43"
+"543","en","add_new_zone","Add New Zone","1/11/2021 22:42:43","1/11/2021 22:42:43"
+"544","en","cities","Cities","1/11/2021 22:42:43","1/11/2021 22:42:43"
+"545","en","standard_delivery_cost","Standard Delivery Cost","1/11/2021 22:42:43","1/11/2021 22:42:43"
+"546","en","express_delivery_cost","Express Delivery Cost","1/11/2021 22:42:43","1/11/2021 22:42:43"
+"547","en","zone_information","Zone Information","1/11/2021 22:42:49","1/11/2021 22:42:49"
+"548","en","select_cities","Select cities","1/11/2021 22:42:49","1/11/2021 22:42:49"
+"549","en","states","States","1/11/2021 22:43:19","1/11/2021 22:43:19"
+"550","en","showhide","Show/Hide","1/11/2021 22:43:19","1/11/2021 22:43:19"
+"551","en","country_status_updated_successfully","Country status updated successfully","1/11/2021 22:43:19","1/11/2021 22:43:19"
+"552","en","countries","Countries","1/11/2021 22:43:56","1/11/2021 22:43:56"
+"553","en","zone_has_been_inserted_successfully","Zone has been inserted successfully","1/11/2021 22:46:44","1/11/2021 22:46:44"
+"554","en","zone_has_been_deleted_successfully","Zone has been deleted successfully","1/11/2021 22:46:49","1/11/2021 22:46:49"
+"555","en","profile_information_has_been_updated_successfully","Profile information has been updated successfully","1/11/2021 22:55:39","1/11/2021 22:55:39"
+"556","en","your_order_has_been_placed_successfully","Your order has been placed successfully","1/11/2021 22:56:45","1/11/2021 22:56:45"
+"557","en","all_customers","All Customers","1/11/2021 22:58:01","1/11/2021 22:58:01"
+"558","en","type_email_or_name__enter","Type email or name & Enter","1/11/2021 22:58:01","1/11/2021 22:58:01"
+"559","en","confirmation","Confirmation","1/11/2021 22:58:01","1/11/2021 22:58:01"
+"560","en","do_you_really_want_to_ban_this_customer","Do you really want to ban this Customer?","1/11/2021 22:58:01","1/11/2021 22:58:01"
+"561","en","do_you_really_want_to_unban_this_customer","Do you really want to unban this Customer?","1/11/2021 22:58:01","1/11/2021 22:58:01"
+"562","en","customer_info","Customer info","1/11/2021 22:58:08","1/11/2021 22:58:08"
+"563","en","order_date","Order Date","1/11/2021 22:58:08","1/11/2021 22:58:08"
+"564","en","qty","QTY
+","1/11/2021 22:58:08","18/1/2022 00:46:48"
+"565","en","delivery_status_has_been_updated","Delivery status has been updated","1/11/2021 22:58:08","1/11/2021 22:58:08"
+"566","en","payment_status_has_been_updated","Payment status has been updated","1/11/2021 22:58:08","1/11/2021 22:58:08"
+"567","en","your_review_has_been_submitted","Your review has been submitted.","1/11/2021 23:56:06","1/11/2021 23:56:06"
+"568","en","settings_updated_successfully","Settings updated successfully","2/11/2021 00:02:50","2/11/2021 00:02:50"
+"569","en","your_profile_has_been_updated_successfully","Your Profile has been updated successfully!","2/11/2021 00:05:18","2/11/2021 00:05:18"
+"570","en","all_uploaded_files","All uploaded files","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"571","en","upload_new_file","Upload New File","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"572","en","all_files","All files","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"573","en","search_your_files","Search your files","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"574","en","details_info","Details Info","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"575","en","download","Download","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"576","en","copy_link","Copy Link","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"577","en","are_you_sure_to_delete_this_file","Are you sure to delete this file?","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"578","en","file_info","File Info","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"579","en","link_copied_to_clipboard","Link copied to clipboard","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"580","en","oops_unable_to_copy","Oops, unable to copy","2/11/2021 00:05:24","2/11/2021 00:05:24"
+"581","en","file_deleted_successfully","File deleted successfully","2/11/2021 00:05:29","2/11/2021 00:05:29"
+"582","en","email_verification","Email Verification","2/11/2021 00:16:03","2/11/2021 00:16:03"
+"583","en","you_verification_code_is","You verification code is","2/11/2021 00:16:03","2/11/2021 00:16:03"
+"584","en","system_name","System Name","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"585","en","system_logo__white","System Logo - White","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"586","en","choose_files","Choose Files","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"587","en","will_be_used_in_admin_panel_side_menu","Will be used in admin panel side menu","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"588","en","system_logo__black","System Logo - Black","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"589","en","will_be_used_in_admin_panel_topbar_in_mobile__admin_login_page","Will be used in admin panel topbar in mobile + Admin login page","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"590","en","system_timezone","System Timezone","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"591","en","admin_login_page_background","Admin login page background","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"592","en","default_weight_unit","Default weight unit","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"593","en","default_dimensions_unit","Default dimensions unit","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"594","en","features_activation","Features Activation","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"595","en","forcefully_https_redirection","Forcefully HTTPS redirection","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"596","en","you_need_to_configure_smtp_correctly_to_enable_this_feature","You need to configure SMTP correctly to enable this feature.","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"597","en","configure_now","Configure Now","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"598","en","wallet_system_activation","Wallet System Activation","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"599","en","chat_setting","Chat setting","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"600","en","chat_logo","Chat logo","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"601","en","chat_name","Chat name","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"602","en","invoice_setting","Invoice setting","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"603","en","invoice_logo","Invoice logo","2/11/2021 00:16:17","2/11/2021 00:16:17"
+"604","en","user_already_exists","User already exists.","2/11/2021 00:17:31","2/11/2021 00:17:31"
+"605","en","create_offer","Create Offer","2/11/2021 00:20:00","2/11/2021 00:20:00"
+"606","en","title","Title
+","2/11/2021 00:20:00","17/5/2022 11:03:21"
+"607","en","banner","Banner","2/11/2021 00:20:00","2/11/2021 00:20:00"
+"608","en","start_date","Start Date","2/11/2021 00:20:00","2/11/2021 00:20:00"
+"609","en","end_date","End Date","2/11/2021 00:20:00","2/11/2021 00:20:00"
+"610","en","page_link","Page Link","2/11/2021 00:20:00","2/11/2021 00:20:00"
+"611","en","send_newsletter","Send Newsletter","2/11/2021 00:20:05","2/11/2021 00:20:05"
+"612","en","emails","Emails","2/11/2021 00:20:05","2/11/2021 00:20:05"
+"613","en","users","Users","2/11/2021 00:20:05","2/11/2021 00:20:05"
+"614","en","newsletter_subject","Newsletter subject","2/11/2021 00:20:05","2/11/2021 00:20:05"
+"615","en","newsletter_content","Newsletter content","2/11/2021 00:20:05","2/11/2021 00:20:05"
+"616","en","send","Send
+","2/11/2021 00:20:05","17/5/2022 11:03:21"
+"617","en","you_have_subscribed_successfully","You have subscribed successfully.","2/11/2021 00:20:47","2/11/2021 00:20:47"
+"618","en","type","Type","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"619","en","sendmail","Sendmail","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"620","en","smtp","SMTP","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"621","en","mailgun","Mailgun","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"622","en","mail_host","MAIL HOST","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"623","en","mail_port","MAIL PORT","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"624","en","mail_username","MAIL USERNAME","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"625","en","mail_password","MAIL PASSWORD","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"626","en","mail_encryption","MAIL ENCRYPTION","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"627","en","mail_from_address","MAIL FROM ADDRESS","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"628","en","mail_from_name","MAIL FROM NAME","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"629","en","mailgun_domain","MAILGUN DOMAIN","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"630","en","mailgun_secret","MAILGUN SECRET","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"631","en","instruction","Instruction","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"632","en","please_be_carefull_when_you_are_configuring_smtp_for_incorrect_configuration_you_will_get_error_at_the_time_of_order_place_new_registration_sending_newsletter","Please be carefull when you are configuring SMTP. For incorrect configuration you will get error at the time of order place, new registration, sending newsletter.","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"633","en","for_nonssl","For Non-SSL","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"634","en","select_sendmail_for_mail_driver_if_you_face_any_issue_after_configuring_smtp_as_mail_driver_","Select sendmail for Mail Driver if you face any issue after configuring smtp as Mail Driver","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"635","en","set_mail_host_according_to_your_server_mail_client_manual_settings","Set Mail Host according to your server Mail Client Manual Settings","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"636","en","set_mail_port_as_587","Set Mail port as 587","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"637","en","set_mail_encryption_as_ssl_if_you_face_issue_with_tls","Set Mail Encryption as ssl if you face issue with tls","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"638","en","for_ssl","For SSL","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"639","en","select_sendmail_for_mail_driver_if_you_face_any_issue_after_configuring_smtp_as_mail_driver","Select sendmail for Mail Driver if you face any issue after configuring smtp as Mail Driver","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"640","en","set_mail_port_as_465","Set Mail port as 465","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"641","en","set_mail_encryption_as_ssl","Set Mail Encryption as ssl","2/11/2021 00:21:40","2/11/2021 00:21:40"
+"642","en","newsletter_has_been_send","Newsletter has been send","2/11/2021 00:22:08","2/11/2021 00:22:08"
+"643","en","the_page_you_are_looking_for_has_not_been_found_on_our_server","The page you are looking for has not been found on our server.","2/11/2021 14:02:23","2/11/2021 14:02:23"
+"644","en","google_login_credential","Google Login Credential","2/11/2021 17:35:52","2/11/2021 17:35:52"
+"645","en","activation","Activation","2/11/2021 17:35:52","2/11/2021 17:35:52"
+"646","en","client_id","Client ID","2/11/2021 17:35:52","2/11/2021 17:35:52"
+"647","en","google_client_id","Google Client ID","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"648","en","client_secret","Client Secret","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"649","en","google_client_secret","Google Client Secret","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"650","en","facebook_login_credential","Facebook Login Credential","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"651","en","app_id","App ID","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"652","en","facebook_client_id","Facebook Client ID","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"653","en","app_secret","App Secret","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"654","en","facebook_client_secret","Facebook Client Secret","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"655","en","twitter_login_credential","Twitter Login Credential","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"656","en","twitter_client_id","Twitter Client ID","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"657","en","twitter_client_secret","Twitter Client Secret","2/11/2021 17:35:53","2/11/2021 17:35:53"
+"658","en","s3_file_system_credentials","S3 File System Credentials","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"659","en","aws_access_key_id","AWS_ACCESS_KEY_ID","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"660","en","aws_secret_access_key","AWS_SECRET_ACCESS_KEY","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"661","en","aws_default_region","AWS_DEFAULT_REGION","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"662","en","aws_bucket","AWS_BUCKET","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"663","en","aws_url","AWS_URL","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"664","en","s3_file_system_activation","S3 File System Activation","2/11/2021 17:35:58","2/11/2021 17:35:58"
+"665","en","cash_payment_activation","Cash Payment Activation","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"666","en","paypal_credential","Paypal Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"667","en","paypal_client_id","Paypal Client Id","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"668","en","paypal_client_secret","Paypal Client Secret","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"669","en","paypal_sandbox_mode","Paypal Sandbox Mode","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"670","en","sslcommerz_credential","Sslcommerz Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"671","en","sslcz_store_id","Sslcz Store Id","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"672","en","sslcz_store_password","Sslcz store password","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"673","en","sslcommerz_sandbox_mode","Sslcommerz Sandbox Mode","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"674","en","stripe_credential","Stripe Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"675","en","stripe_key","Stripe Key","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"676","en","stripe_secret","Stripe Secret","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"677","en","razorpay_credential","RazorPay Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"678","en","razor_key","RAZOR KEY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"679","en","razor_secret","RAZOR SECRET","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"680","en","instamojo_credential","Instamojo Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"681","en","api_key","API KEY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"682","en","im_api_key","IM API KEY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"683","en","auth_token","AUTH TOKEN","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"684","en","im_auth_token","IM AUTH TOKEN","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"685","en","instamojo_sandbox_mode","Instamojo Sandbox Mode","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"686","en","paystack_credential","PayStack Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"687","en","public_key","PUBLIC KEY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"688","en","secret_key","SECRET KEY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"689","en","merchant_email","MERCHANT EMAIL","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"690","en","ngenius_credential","Ngenius Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"691","en","ngenius_outlet_id","NGENIUS OUTLET ID","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"692","en","ngenius_api_key","NGENIUS API KEY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"693","en","ngenius_currency","NGENIUS CURRENCY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"694","en","payhere_credential","Payhere Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"695","en","payhere_merchant_id","PAYHERE MERCHANT ID","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"696","en","payhere_secret","PAYHERE SECRET","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"697","en","payhere_currency","PAYHERE CURRENCY","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"698","en","payhere_sandbox_mode","Payhere Sandbox Mode","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"699","en","voguepay_credential","VoguePay Credential","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"700","en","merchant_id","MERCHANT ID","2/11/2021 17:36:00","2/11/2021 17:36:00"
+"701","en","sandbox_mode","Sandbox Mode","2/11/2021 17:36:01","2/11/2021 17:36:01"
+"702","en","system_default_currency","System Default Currency","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"703","en","set_currency_formats","Set Currency Formats","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"704","en","symbol_format","Symbol Format","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"705","en","decimal_separator","Decimal Separator","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"706","en","no_of_decimals","No of decimals","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"707","en","all_currencies","All Currencies","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"708","en","add_new_currency","Add New Currency","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"709","en","currency_name","Currency name","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"710","en","currency_symbol","Currency symbol","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"711","en","currency_code","Currency code","2/11/2021 17:36:05","2/11/2021 17:36:05"
+"712","en","exchange_rate","Exchange rate
+","2/11/2021 17:36:05","14/12/2022 08:06:05"
+"713","en","currency_status_updated_successfully","Currency Status updated successfully","2/11/2021 17:36:06","2/11/2021 17:36:06"
+"714","en","default_language","Default Language","2/11/2021 17:37:20","2/11/2021 17:37:20"
+"715","en","add_new_language","Add New Language","2/11/2021 17:37:20","2/11/2021 17:37:20"
+"716","en","language","Language","2/11/2021 17:37:20","2/11/2021 17:37:20"
+"717","en","rtl","RTL","2/11/2021 17:37:20","2/11/2021 17:37:20"
+"718","en","translation","Translation","2/11/2021 17:37:20","2/11/2021 17:37:20"
+"719","en","upload_product","Upload Product","2/11/2021 18:29:17","2/11/2021 18:29:17"
+"720","en","product_has_been_inserted_successfully","Product has been inserted successfully","2/11/2021 18:31:10","2/11/2021 18:31:10"
+"721","en","add_new_category","Add New category","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"722","en","parent_category","Parent Category","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"723","en","order_level","Order Level","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"724","en","level","Level","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"725","en","icon","Icon","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"726","en","featured","Featured","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"727","en","featured_categories_updated_successfully","Featured categories updated successfully","2/11/2021 18:40:10","2/11/2021 18:40:10"
+"728","en","category_information","Category Information","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"729","en","no_parent","No Parent","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"730","en","ordering_number","Ordering Number","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"731","en","higher_number_has_high_priority","Higher number has high priority","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"732","en","200x300","200x300","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"733","en","32x32","32x32","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"734","en","filtering_attributes","Filtering Attributes","2/11/2021 18:55:28","2/11/2021 18:55:28"
+"735","en","all_attributes","All Attributes","2/11/2021 18:58:24","2/11/2021 18:58:24"
+"736","en","values","Values","2/11/2021 18:58:24","2/11/2021 18:58:24"
+"737","en","actions","Actions
+","2/11/2021 18:58:24","13/3/2022 11:14:03"
+"738","en","attributes_are_non_deletable_you_can_only_add_or_edit","Attributes are non deletable. You can only add or edit.","2/11/2021 18:58:24","2/11/2021 18:58:24"
+"739","en","add","Add","2/11/2021 18:58:24","2/11/2021 18:58:24"
+"740","en","invoice","INVOICE","2/11/2021 19:04:36","2/11/2021 19:04:36"
+"741","en","standard","standard","2/11/2021 19:04:36","2/11/2021 19:04:36"
+"742","en","sl","S/L","2/11/2021 19:04:36","2/11/2021 19:04:36"
+"743","en","total_tax","Total Tax","2/11/2021 19:04:37","2/11/2021 19:04:37"
+"744","en","shipping_cost","Shipping Cost","2/11/2021 19:04:37","2/11/2021 19:04:37"
+"745","en","grand_total","Grand Total","2/11/2021 19:04:37","2/11/2021 19:04:37"
+"746","en","invoice_generated","Invoice generated.","2/11/2021 19:04:38","2/11/2021 19:04:38"
+"747","en","offer_information","Offer Information","2/11/2021 19:16:09","2/11/2021 19:16:09"
+"748","en","choose_products","Choose Products","2/11/2021 19:16:09","2/11/2021 19:16:09"
+"749","en","if_any_product_has_discount_or_exists_in_another_offer_that_discount_will_be_replaced_by_this_discount__time_limit","If any product has discount or exists in another offer, that discount will be replaced by this discount & time limit.","2/11/2021 19:16:09","2/11/2021 19:16:09"
+"750","en","all_subscribers","All Subscribers","2/11/2021 19:34:59","2/11/2021 19:34:59"
+"751","en","all_coupons","All coupons
+","2/11/2021 19:36:36","18/1/2022 00:46:47"
+"752","en","coupon_information","Coupon Information","2/11/2021 19:36:36","2/11/2021 19:36:36"
+"753","en","cart_base","Cart Base","2/11/2021 19:36:36","2/11/2021 19:36:36"
+"754","en","product_base","Product Base","2/11/2021 19:36:36","2/11/2021 19:36:36"
+"755","en","coupon_information_adding","Coupon Information Adding","2/11/2021 19:36:40","2/11/2021 19:36:40"
+"756","en","coupon_type","Coupon Type","2/11/2021 19:36:40","2/11/2021 19:36:40"
+"757","en","select_one","Select One","2/11/2021 19:36:40","2/11/2021 19:36:40"
+"758","en","for_products","For Products","2/11/2021 19:36:40","2/11/2021 19:36:40"
+"759","en","for_total_orders","For Total Orders","2/11/2021 19:36:40","2/11/2021 19:36:40"
+"760","en","add_your_product_base_coupon","Add Your Product Base Coupon","2/11/2021 19:38:01","2/11/2021 19:38:01"
+"761","en","coupon_code","Coupon code","2/11/2021 19:38:01","2/11/2021 19:38:01"
+"762","en","add_your_cart_base_coupon","Add Your Cart Base Coupon","2/11/2021 19:39:13","2/11/2021 19:39:13"
+"763","en","minimum_shopping","Minimum Shopping","2/11/2021 19:39:13","2/11/2021 19:39:13"
+"764","en","maximum_discount_amount","Maximum Discount Amount","2/11/2021 19:39:13","2/11/2021 19:39:13"
+"765","en","sales_stat","Sales stat","2/11/2021 20:16:41","2/11/2021 20:16:41"
+"766","en","cache_settings","Cache Settings","2/11/2021 20:16:46","2/11/2021 20:16:46"
+"767","en","current_cache_version","Current cache version","2/11/2021 20:16:46","2/11/2021 20:16:46"
+"768","en","force_clear_cache","Force Clear Cache","2/11/2021 20:16:46","2/11/2021 20:16:46"
+"769","en","delivery_timing","Delivery timing
+","2/11/2021 20:21:10","2/11/2021 20:21:10"
+"770","en","invalid_email_or_password","Invalid email or password","2/11/2021 14:48:36","2/11/2021 14:48:36"
+"771","en","type_country_name","Type country name","2/11/2021 15:14:19","2/11/2021 15:14:19"
+"772","en","filter","Filter","2/11/2021 15:14:19","2/11/2021 15:14:19"
+"773","en","all_states","All States","2/11/2021 15:27:18","2/11/2021 15:27:18"
+"774","en","type_state_name","Type state name","2/11/2021 15:27:18","2/11/2021 15:27:18"
+"775","en","action","Action
+","2/11/2021 15:27:18","14/12/2022 08:06:05"
+"776","en","add_new_state","Add New State","2/11/2021 15:27:18","2/11/2021 15:27:18"
+"777","en","all_cities","All cities","2/11/2021 15:27:40","2/11/2021 15:27:40"
+"778","en","type_city_name__enter","Type city name & Enter","2/11/2021 15:27:40","2/11/2021 15:27:40"
+"779","en","select_state","Select State","2/11/2021 15:27:40","2/11/2021 15:27:40"
+"780","en","add_new_city","Add New city","2/11/2021 15:27:40","2/11/2021 15:27:40"
+"781","en","customer_deleted_successfully","Customer deleted successfully","2/11/2021 15:29:16","2/11/2021 15:29:16"
+"782","en","address_has_been_added_successfully","Address has been added successfully.","2/11/2021 15:39:38","2/11/2021 15:39:38"
+"783","en","address_has_been_deleted_successfully","Address has been deleted successfully.","2/11/2021 15:46:53","2/11/2021 15:46:53"
+"784","en","address_has_been_marked_as_default_shipping_address","Address has been marked as default shipping address.","2/11/2021 15:47:56","2/11/2021 15:47:56"
+"785","en","200x200","200x200","2/11/2021 15:49:53","2/11/2021 15:49:53"
+"786","en","category_has_been_updated_successfully","Category has been updated successfully","2/11/2021 15:50:15","2/11/2021 15:50:15"
+"787","en","discounts","Discounts","2/11/2021 15:54:04","2/11/2021 15:54:04"
+"788","en","discount_type","Discount Type","2/11/2021 15:54:04","2/11/2021 15:54:04"
+"789","en","flash_deal_has_been_inserted_successfully","Flash Deal has been inserted successfully","2/11/2021 15:54:24","2/11/2021 15:54:24"
+"790","en","coupon_has_been_saved_successfully","Coupon has been saved successfully","2/11/2021 15:55:58","2/11/2021 15:55:58"
+"791","en","coupon_already_exist_for_this_coupon_code","Coupon already exist for this coupon code","2/11/2021 15:57:56","2/11/2021 15:57:56"
+"792","en","edit_offer_information","Edit Offer Information","2/11/2021 15:59:22","2/11/2021 15:59:22"
+"793","en","offer_has_been_updated_successfully","Offer has been updated successfully","2/11/2021 15:59:45","2/11/2021 15:59:45"
+"794","en","chat_list","Chat List","2/11/2021 16:41:31","2/11/2021 16:41:31"
+"795","en","last_message","Last Message","2/11/2021 16:41:31","2/11/2021 16:41:31"
+"796","en","show","Show","2/11/2021 16:41:31","2/11/2021 16:41:31"
+"797","en","your_message_has_been_sent_successfully","Your message has been sent successfully.","2/11/2021 16:41:50","2/11/2021 16:41:50"
+"798","en","messages_of_","Messages of ","2/11/2021 16:43:13","2/11/2021 16:43:13"
+"799","en","your_message","Your Message..","2/11/2021 16:43:13","2/11/2021 16:43:13"
+"800","en","add_new_staffs","Add New Staffs","2/11/2021 16:45:34","2/11/2021 16:45:34"
+"801","en","staff_information","Staff Information","2/11/2021 16:47:02","2/11/2021 16:47:02"
+"802","en","email_already_used","Email already used","2/11/2021 16:47:26","2/11/2021 16:47:26"
+"803","en","staff_has_been_inserted_successfully","Staff has been inserted successfully","2/11/2021 16:47:58","2/11/2021 16:47:58"
+"804","en","custom_css__script","Custom CSS & Script","2/11/2021 17:01:31","2/11/2021 17:01:31"
+"805","en","custom_css_for_website","Custom css for website","2/11/2021 17:01:31","2/11/2021 17:01:31"
+"806","en","write_css_with_style_tag","Write css with <style> tag","2/11/2021 17:01:31","2/11/2021 17:01:31"
+"807","en","header_custom_script__before_head","Header custom script - before </head>","2/11/2021 17:01:31","2/11/2021 17:01:31"
+"808","en","write_script_with_script_tag","Write script with <script> tag","2/11/2021 17:01:31","2/11/2021 17:01:31"
+"809","en","footer_custom_script__before_body","Footer custom script - before </body>","2/11/2021 17:01:31","2/11/2021 17:01:31"
+"810","en","website_pages","Website Pages","2/11/2021 17:01:42","2/11/2021 17:01:42"
+"811","en","all_pages","All Pages","2/11/2021 17:01:42","2/11/2021 17:01:42"
+"812","en","add_new_page","Add New Page","2/11/2021 17:01:42","2/11/2021 17:01:42"
+"813","en","url","URL","2/11/2021 17:01:42","2/11/2021 17:01:42"
+"814","en","website_banners","Website Banners","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"815","en","login_page_banner__link","Login page banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"816","en","recommended_size","Recommended size","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"817","en","registration_page_banner__link","Registration page banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"818","en","forgot_password_page_banner__link","Forgot password page banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"819","en","product_listing_page_banner__link","Product listing page banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"820","en","product_details_page_banner__link","Product details page banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"821","en","checkout_page_banner__link","Checkout page banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"822","en","customer_dashboard_top_banner__link","Customer dashboard top banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"823","en","customer_dashboard_bottom_banner__link","Customer dashboard bottom banner & link","2/11/2021 17:01:49","2/11/2021 17:01:49"
+"824","en","website_footer","Website Footer","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"825","en","footer_widget","Footer Widget","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"826","en","footer_logo","Footer logo","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"827","en","link_widget_one","Link widget one","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"828","en","widget_title","Widget title","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"829","en","links","Links","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"830","en","link_widget_two","Link widget two","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"831","en","contact_info_widget","Contact info widget","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"832","en","contact_address","Contact address","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"833","en","contact_email","Contact email","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"834","en","contact_phone","Contact phone","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"835","en","mobile_apps_link","Mobile apps link","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"836","en","footer_bottom","Footer Bottom","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"837","en","footer_menu","Footer menu","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"838","en","copyright_widget_","Copyright Widget ","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"839","en","copyright_text","Copyright Text","2/11/2021 17:12:23","2/11/2021 17:12:23"
+"840","en","social_link_widget_","Social Link Widget ","2/11/2021 17:12:24","2/11/2021 17:12:24"
+"841","en","social_links","Social Links","2/11/2021 17:12:24","2/11/2021 17:12:24"
+"842","en","home_page_settings","Home Page Settings","2/11/2021 17:12:35","2/11/2021 17:12:35"
+"843","en","home_page_main_sliders","Home Page Main Sliders","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"844","en","1st_sliders_image__link","1st Sliders image & link","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"845","en","2nd_sliders_image__link","2nd Sliders image & link","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"846","en","3rd_sliders_image__link","3rd Sliders image & link","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"847","en","4th_sliders_image__link","4th Sliders image & link","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"848","en","select_categories","Select categories","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"849","en","product_section_1","Product section 1","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"850","en","section_title","Section title","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"851","en","select_product","Select product","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"852","en","home_banner_section_1","Home banner section 1","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"853","en","banner_image__link","Banner image & link","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"854","en","product_section_2","Product section 2","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"855","en","home_banner_section_2","Home banner section 2","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"856","en","product_section_3","Product section 3","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"857","en","home_banner_section_3","Home banner section 3","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"858","en","product_section_4","Product section 4","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"859","en","product_section_5","Product section 5","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"860","en","home_banner_section_4","Home banner section 4","2/11/2021 17:12:36","2/11/2021 17:12:36"
+"861","en","product_section_6","Product section 6","2/11/2021 17:12:37","2/11/2021 17:12:37"
+"862","en","home_bottom_about_text","Home bottom about text","2/11/2021 17:12:37","2/11/2021 17:12:37"
+"863","en","about_description","About description","2/11/2021 17:12:37","2/11/2021 17:12:37"
+"864","en","coupon_information_update","Coupon Information Update","2/11/2021 20:53:22","2/11/2021 20:53:22"
+"865","en","coupon_code_applied_successfully","Coupon code applied successfully","2/11/2021 20:55:28","2/11/2021 20:55:28"
+"866","en","edit_your_cart_base_coupon","Edit Your Cart Base Coupon","2/11/2021 20:55:59","2/11/2021 20:55:59"
+"867","en","no_brand","No brand","2/11/2021 21:07:34","2/11/2021 21:07:34"
+"868","en","product_has_been_duplicated_successfully","Product has been duplicated successfully","2/11/2021 21:14:17","2/11/2021 21:14:17"
+"869","en","brand_has_been_inserted_successfully","Brand has been inserted successfully","2/11/2021 21:46:47","2/11/2021 21:46:47"
+"870","en","rtl_status_updated_successfully","RTL status updated successfully","3/11/2021 10:00:03","3/11/2021 10:00:03"
+"871","en","type_key__enter","Type key & Enter","3/11/2021 10:00:19","3/11/2021 10:00:19"
+"872","en","key","Key","3/11/2021 10:00:19","3/11/2021 10:00:19"
+"873","en","value","Value","3/11/2021 10:00:19","3/11/2021 10:00:19"
+"874","en","copy_translations","Copy Translations","3/11/2021 10:00:19","3/11/2021 10:00:19"
+"925","en","translations_updated_for_","Translations updated for ","3/11/2021 10:00:46","3/11/2021 10:00:46"
+"2626","en","language_has_been_deleted_successfully","Language has been deleted successfully","3/11/2021 10:18:59","3/11/2021 10:18:59"
+"3503","en","language_information","Language Information","3/11/2021 10:28:06","3/11/2021 10:28:06"
+"3504","en","lang_code","Lang Code","3/11/2021 10:28:06","3/11/2021 10:28:06"
+"3505","en","language_has_been_inserted_successfully","Language has been inserted successfully","3/11/2021 10:30:32","3/11/2021 10:30:32"
+"4206","en","new_role_has_been_added_successfully","New Role has been added successfully","3/11/2021 14:00:24","3/11/2021 14:00:24"
+"4207","en","staff_has_been_updated_successfully","Staff has been updated successfully","3/11/2021 14:02:10","3/11/2021 14:02:10"
+"4208","en","no_city","No City","3/11/2021 14:07:05","3/11/2021 14:07:05"
+"4209","en","zone_has_been_updated_successfully","Zone has been updated successfully","3/11/2021 14:09:32","3/11/2021 14:09:32"
+"4210","en","facebook_chat","Facebook Chat","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4211","en","facebook_chat_setting","Facebook Chat Setting","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4212","en","facebook_page_id","Facebook Page ID","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4213","en","please_be_carefull_when_you_are_configuring_facebook_chat_for_incorrect_configuration_you_will_not_get_messenger_icon_on_your_userend_site","Please be carefull when you are configuring Facebook chat. For incorrect configuration you will not get messenger icon on your user-end site.","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4214","en","login_into_your_facebook_page","Login into your facebook page","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4215","en","find_the_about_option_of_your_facebook_page","Find the About option of your facebook page","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4216","en","at_the_very_bottom_you_can_find_the_facebook_page_id","At the very bottom, you can find the \â€œFacebook Page ID\","3/11/2021 14:26:12","3/11/2021 14:26:12"
+"4217","en","go_to_settings_of_your_page_and_find_the_option_of_advance_messaging","Go to Settings of your page and find the option of \""Advance Messaging\""","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4218","en","scroll_down_that_page_and_you_will_get_white_listed_domain","Scroll down that page and you will get \""white listed domain\""","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4219","en","set_your_website_domain_name","Set your website domain name","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4220","en","facebook_pixel","Facebook Pixel","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4221","en","facebook_pixel_setting","Facebook Pixel Setting","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4222","en","facebook_pixel_id","Facebook Pixel ID","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4223","en","please_be_carefull_when_you_are_configuring_facebook_pixel","Please be carefull when you are configuring Facebook pixel.","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4224","en","log_in_to_facebook_and_go_to_your_ads_manager_account","Log in to Facebook and go to your Ads Manager account","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4225","en","open_the_navigation_bar_and_select_events_manager","Open the Navigation Bar and select Events Manager","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4226","en","copy_your_pixel_id_from_underneath_your_site_name_and_paste_the_number_into_facebook_pixel_id_field","Copy your Pixel ID from underneath your Site Name and paste the number into Facebook Pixel ID field","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4227","en","google_analytics_setting","Google Analytics Setting","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4228","en","google_analytics","Google Analytics","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4229","en","tracking_id","Tracking ID","3/11/2021 14:26:13","3/11/2021 14:26:13"
+"4230","en","edit_page_information","Edit Page Information","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4231","en","page_content","Page Content","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4232","en","link","Link","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4233","en","use_character_number_hypen_only","Use character, number, hypen only","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4234","en","add_content","Add Content","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4235","en","seo_fields","Seo Fields","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4236","en","update_page","Update Page","3/11/2021 14:27:18","3/11/2021 14:27:18"
+"4237","en","page_has_been_updated_successfully","Page has been updated successfully","3/11/2021 14:27:53","3/11/2021 14:27:53"
+"4238","en","please_configure_smtp_setting_to_work_all_email_sending_functionality","Please Configure SMTP Setting to work all email sending functionality","3/11/2021 21:35:13","3/11/2021 21:35:13"
+"4239","en","filter_by_rating","Filter by Rating","4/11/2021 11:31:17","4/11/2021 11:31:17"
+"4240","en","product__rating","Product & rating","4/11/2021 11:31:17","4/11/2021 11:31:17"
+"4241","en","published_reviews_updated_successfully","Published reviews updated successfully","4/11/2021 11:31:17","4/11/2021 11:31:17"
+"4242","en","brand_information","Brand Information","4/11/2021 11:41:19","4/11/2021 11:41:19"
+"4243","en","show_more","Show more
+","4/11/2021 14:49:43","4/11/2021 14:49:43"
+"4244","en","show_less","Show less
+","4/11/2021 14:49:43","4/11/2021 14:49:43"
+"4245","en","buy_now","Buy Now
+","4/11/2021 14:49:43","15/11/2021 02:11:03"
+"4246","en","support_chat","Support chat","5/11/2021 00:55:52","5/11/2021 00:55:52"
+"4247","en","brand_has_been_updated_successfully","Brand has been updated successfully","5/11/2021 02:19:38","5/11/2021 02:19:38"
+"4248","en","category_has_been_inserted_successfully","Category has been inserted successfully","5/11/2021 02:21:57","5/11/2021 02:21:57"
+"4249","en","customer_need_to_purchase_this_minimum_quantity_for_this_product_minimum_should_be_1","Customer need to purchase this minimum quantity for this product. Minimum should be 1.","5/11/2021 02:30:47","5/11/2021 02:30:47"
+"4250","en","customer_will_be_able_to_purchase_this_maximum_quantity_for_this_product_default_0_for_unlimited","Customer will be able to purchase this maximum quantity for this product. Default 0 for unlimited.","5/11/2021 02:30:47","5/11/2021 02:30:47"
+"4251","en","cart_updated","Cart updated","5/11/2021 07:18:49","5/11/2021 07:18:49"
+"4252","en","product_has_been_successfully_removed_from_your_cart","Product has been successfully removed from your cart","5/11/2021 07:24:50","5/11/2021 07:24:50"
+"4253","en","cart_deleted_due_to_minimum_quantity","Cart deleted due to minimum quantity","5/11/2021 07:41:26","5/11/2021 07:41:26"
+"4254","en","product_has_been_deleted_successfully","Product has been deleted successfully","5/11/2021 09:47:12","5/11/2021 09:47:12"
+"4255","en","your_order_has_been_placed","Your order has been placed","5/11/2021 19:13:41","5/11/2021 19:13:41"
+"4256","en","flutterwave_credential","Flutterwave Credential","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4257","en","flw_public_key","FLW_PUBLIC_KEY","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4258","en","flw_secret_key","FLW_SECRET_KEY","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4259","en","flw_secret_hash","FLW_SECRET_HASH","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4260","en","flw_payment_currency_code","FLW_PAYMENT_CURRENCY_CODE","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4261","en","paytm_credential","Paytm Credential","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4262","en","paytm_environment","PAYTM ENVIRONMENT","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4263","en","paytm_merchant_id","PAYTM MERCHANT ID","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4264","en","paytm_merchant_key","PAYTM MERCHANT KEY","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4265","en","paytm_merchant_website","PAYTM MERCHANT WEBSITE","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4266","en","paytm_channel","PAYTM CHANNEL","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4267","en","paytm_industry_type","PAYTM INDUSTRY TYPE","5/11/2021 23:09:15","5/11/2021 23:09:15"
+"4268","en","update_role_information","Update Role Information","6/11/2021 00:54:55","6/11/2021 00:54:55"
+"4269","en","all_values","All Values","6/11/2021 01:07:14","6/11/2021 01:07:14"
+"4270","en","attribute_value","Attribute Value","6/11/2021 01:07:14","6/11/2021 01:07:14"
+"4271","en","add_new_values","Add New Values","6/11/2021 01:07:15","6/11/2021 01:07:15"
+"4272","en","attribute_values_are_non_deletable_you_can_only_add_or_edit","Attribute values are non deletable. You can only add or edit.","6/11/2021 01:07:15","6/11/2021 01:07:15"
+"4273","en","attribute_value_name","Attribute Value Name","6/11/2021 01:07:15","6/11/2021 01:07:15"
+"4274","en","installed_addon","Installed Addon","6/11/2021 16:51:10","6/11/2021 16:51:10"
+"4275","en","install_new_addon","Install New Addon","6/11/2021 16:51:10","6/11/2021 16:51:10"
+"4276","en","no_addon_installed","No Addon Installed","6/11/2021 16:51:10","6/11/2021 16:51:10"
+"4277","en","status_updated_successfully","Status updated successfully","6/11/2021 16:51:10","6/11/2021 16:51:10"
+"4278","en","symbol","Symbol","6/11/2021 17:02:31","6/11/2021 17:02:31"
+"4279","en","currency_updated_successfully","Currency updated successfully","6/11/2021 17:02:49","6/11/2021 17:02:49"
+"4280","en","product_is_successfully_removed_from_your_wishlist","Product is successfully removed from your wishlist","6/11/2021 17:04:36","6/11/2021 17:04:36"
+"4281","en","no_order_found_by_this_code","No order found by this code","6/11/2021 17:40:04","6/11/2021 17:40:04"
+"4282","en","zip_file","Zip File","6/11/2021 18:14:06","6/11/2021 18:14:06"
+"4283","en","install","Install","6/11/2021 18:14:06","6/11/2021 18:14:06"
+"4284","en","your_cart_is_empty_please_select_a_product","Your cart is empty. Please select a product.","6/11/2021 18:25:03","6/11/2021 18:25:03"
+"4285","en","only_customers_can_login_here","Only customers can login here","6/11/2021 18:37:38","6/11/2021 18:37:38"
+"4286","en","express","express","6/11/2021 18:39:53","6/11/2021 18:39:53"
+"4287","en","all_taxes","All Taxes","6/11/2021 20:06:06","6/11/2021 20:06:06"
+"4288","en","taxes","Taxes","6/11/2021 20:06:06","6/11/2021 20:06:06"
+"4289","en","add_new_tax","Add New Tax","6/11/2021 20:06:06","6/11/2021 20:06:06"
+"4290","en","tax_status_updated_successfully","Tax Status updated successfully","6/11/2021 20:06:06","6/11/2021 20:06:06"
+"4291","en","test_smtp_configuration","Test SMTP configuration","6/11/2021 21:28:52","6/11/2021 21:28:52"
+"4292","en","enter_your_email_address","Enter your email address","6/11/2021 21:28:52","6/11/2021 21:28:52"
+"4293","en","send_test_email","Send test email","6/11/2021 21:28:52","6/11/2021 21:28:52"
+"4294","en","language_changed_to_","Language changed to ","6/11/2021 21:33:02","6/11/2021 21:33:02"
+"4295","en","update_currency","Update Currency","7/11/2021 01:38:06","7/11/2021 01:38:06"
+"4296","en","number_of_orders","Number of Orders","9/11/2021 22:03:47","9/11/2021 22:03:47"
+"4297","en","account_information","Account Information","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4298","en","registration_date","Registration Date","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4299","en","balance","Balance","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4300","en","others_information","Others Information","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4301","en","ordered_amount","Ordered Amount","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4302","en","number_of_items_in_cart","Number of items in cart","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4303","en","number_of_items_in_wishlist","Number of items in wishlist","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4304","en","total_reviewed_products","Total reviewed products","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4305","en","orders_of_this_customer","Orders of this customer","9/11/2021 22:03:51","9/11/2021 22:03:51"
+"4306","en","in_wishlist","In wishlist","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4307","en","in_cart","In cart","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4308","en","times_sold","Times sold","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4309","en","tags","Tags","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4310","en","has_warranty","Has warranty","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4311","en","minimum_purchase_qty_","Minimum Purchase Qty ","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4312","en","maximum_purchase_qty_","Maximum Purchase Qty ","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4313","en","gallery","Gallery","10/11/2021 00:58:02","10/11/2021 00:58:02"
+"4314","en","no_warranty","No warranty","10/11/2021 01:53:37","10/11/2021 01:53:37"
+"4315","en","address_has_been_updated_successfully","Address has been updated successfully.","10/11/2021 02:19:40","10/11/2021 02:19:40"
+"4316","en","attribute_value_has_been_added_successfully","Attribute value has been added successfully","10/11/2021 02:44:13","10/11/2021 02:44:13"
+"4317","en","brand_has_been_deleted_successfully","Brand has been deleted successfully","10/11/2021 04:26:06","10/11/2021 04:26:06"
+"4318","en","attribute_information","Attribute Information","10/11/2021 07:47:13","10/11/2021 07:47:13"
+"4319","en","save_page","Save Page","10/11/2021 07:49:48","10/11/2021 07:49:48"
+"4320","en","print_invoice","Print Invoice","11/11/2021 01:57:00","11/11/2021 01:57:00"
+"4321","en","role_has_been_updated_successfully","Role has been updated successfully","11/11/2021 22:57:35","11/11/2021 22:57:35"
+"4322","en","file_name","File Name","12/11/2021 00:02:17","12/11/2021 00:02:17"
+"4323","en","file_type","File Type","12/11/2021 00:02:17","12/11/2021 00:02:17"
+"4324","en","file_size","File Size","12/11/2021 00:02:17","12/11/2021 00:02:17"
+"4325","en","uploaded_by","Uploaded By","12/11/2021 00:02:17","12/11/2021 00:02:17"
+"4326","en","uploaded_at","Uploaded At","12/11/2021 00:02:17","12/11/2021 00:02:17"
+"4327","en","your_shopping_bag_is_empty_start_shopping","Your shopping bag is empty. Start shopping.
+","11/11/2021 20:57:39","15/11/2021 02:11:03"
+"4328","en","copy_code","Copy Code
+","15/11/2021 02:11:03","15/11/2021 02:11:03"
+"4329","en","code_copied_to_clipboard","Code copied to clipboard
+","15/11/2021 02:11:03","18/1/2022 00:46:47"
+"4330","en","flag","Flag","15/11/2021 21:51:24","15/11/2021 21:51:24"
+"4331","en","currencies","Currencies","15/11/2021 21:52:32","15/11/2021 21:52:32"
+"4332","en","amount_sold","Amount sold","15/11/2021 23:12:47","15/11/2021 23:12:47"
+"4333","en","update_now","Update Now","17/11/2021 23:47:58","17/11/2021 23:47:58"
+"4334","en","this_coupon_code_is_no_applicable_for_your_cart_products","This coupon code is no applicable for your cart products.","18/11/2021 20:30:39","18/11/2021 20:30:39"
+"4335","en","password_reset","Password Reset","18/11/2021 23:24:00","18/11/2021 23:24:00"
+"4336","en","verification_code_is_","Verification Code is ","18/11/2021 23:24:00","18/11/2021 23:24:00"
+"4337","en","no_user_found_with_this_email_address","No user found with this email address.","18/11/2021 23:25:15","18/11/2021 23:25:15"
+"4449","en","update_language_info","update Language Info","18/11/2021 23:55:18","18/11/2021 23:55:18"
+"5060","en","the_coupon_is_invalid","The coupon is invalid.","19/11/2021 06:02:05","19/11/2021 06:02:05"
+"5061","en","order_has_been_cancelled","Order has been cancelled","19/11/2021 06:02:45","19/11/2021 06:02:45"
+"5062","en","cash_on_delivery","Cash on Delivery","18/1/2022 00:43:56","18/1/2022 00:43:56"
+"5063","en","already_have_an_account","Already have an account
+","18/1/2022 00:46:46","18/1/2022 00:46:46"
+"5064","en","pay_with_wallet","Pay with wallet
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5065","en","become_a_seller_with","Become a Seller with
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5066","en","all_shops","All Shops
+","18/1/2022 00:46:47","15/12/2024 10:53:08"
+"5067","en","visit_store","Visit Store
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5068","en","follow","Follow
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5069","en","unfollow","Unfollow
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5070","en","shop_since","Shop since
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5071","en","featured_products","Featured Products
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5072","en","new_arrival","New Arrival
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5073","en","best_rated","Best Rated
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5074","en","best_selling","Best Selling
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5075","en","store","Store
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5076","en","view_all_products_of_this_shop","View All Products of This Shop
+","18/1/2022 00:46:47","18/1/2022 00:46:47"
+"5077","en","shop","Shop
+","18/1/2022 00:46:47","17/7/2024 06:53:58"
+"5078","en","followed_shops","Followed shops
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5079","en","no_followed_shop_found","No followed shop found
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5080","en","sort_by_brand","Sort by brand
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5081","en","sort_by_category","Sort by category
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5082","en","no_data_available","No data available
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5083","en","be_a_seller","Be a Seller
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5084","en","seller_zone","Seller Zone
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5085","en","login_to_seller_panel","Login to Seller Panel
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5086","en","already_a_seller","Already a Seller?
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5087","en","register_your_shop","Register your shop
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5088","en","personal_information","Personal information
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5089","en","shop_information","Shop information
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5090","en","register_shop","Register Shop
+","18/1/2022 00:46:48","18/1/2022 00:46:48"
+"5091","en","","0","18/1/2022 00:46:48","18/1/2022 00:55:04"
+"5092","en","version","Version","18/1/2022 00:50:56","18/1/2022 00:50:56"
+"5093","en","inhouse_products","Inhouse Products","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5094","en","seller_products","Seller Products","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5095","en","inhouse_orders","Inhouse Orders","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5096","en","seller_orders","Seller Orders","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5097","en","seller","Seller","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5098","en","sellers","Sellers","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5099","en","payouts","Payouts","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5100","en","payout_requests","Payout Requests","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5101","en","commission_history","Commission History","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5102","en","seller_packages","Seller Packages","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5103","en","package_payments","Package Payments","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5104","en","shop_settings","Shop Settings","18/1/2022 00:50:57","18/1/2022 00:50:57"
+"5105","en","basic_info","Basic Info","18/1/2022 00:51:09","18/1/2022 00:51:09"
+"5106","en","welcome","Welcome","18/1/2022 00:52:31","18/1/2022 00:52:31"
+"5107","en","all_sellers","All Sellers","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5108","en","filter_by_approval","Filter by Approval","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5109","en","approved","Approved","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5110","en","nonapproved","Non-Approved","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5111","en","type_name_or_phone__enter","Type name or phone & Enter","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5112","en","seller_approval","Seller Approval","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5113","en","shop_published","Shop Published","18/1/2022 00:54:18","18/1/2022 00:54:18"
+"5114","en","seller_approval_status_successfully","Seller approval status successfully","18/1/2022 00:54:19","18/1/2022 00:54:19"
+"5115","en","shop_publish_status_successfully","Shop publish status successfully","18/1/2022 00:54:19","18/1/2022 00:54:19"
+"5116","en","shop_name","Shop Name","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5117","en","shop_logo","Shop Logo","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5118","en","shop_phone","Shop Phone","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5119","en","shop_address","Shop Address","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5120","en","shop_page_settings","Shop page Settings","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5121","en","we_had_to_limit_height_to_maintian_consistancy_in_some_device_both_side_of_the_banner_might_be_cropped_for_height_limitation","We had to limit height to maintian consistancy. In some device both side of the banner might be cropped for height limitation.","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5122","en","select_products","Select products","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5123","en","banner_section_one","Banner section one","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5124","en","banner_section_two","Banner section two","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5125","en","banner_section_three","Banner section three","18/1/2022 00:54:51","18/1/2022 00:54:51"
+"5126","en","banner_section_four","Banner section four","18/1/2022 00:54:52","18/1/2022 00:54:52"
+"5127","en","thanks_for_registering_your_shop","Thanks for registering your shop.","18/1/2022 00:57:17","18/1/2022 00:57:17"
+"5128","en","pay_to_seller","Pay to Seller","18/1/2022 00:57:27","18/1/2022 00:57:27"
+"5129","en","payment_history","Payment History","18/1/2022 00:57:27","18/1/2022 00:57:27"
+"5130","en","shop_found","Shop found","18/1/2022 00:57:58","18/1/2022 00:57:58"
+"5131","en","shop_found","Shop found","18/1/2022 00:57:58","18/1/2022 00:57:58"
+"5132","en","shop_not_found","Shop not found","18/1/2022 01:02:56","18/1/2022 01:02:56"
+"5133","en","shop_not_found","Shop not found","18/1/2022 01:02:56","18/1/2022 01:02:56"
+"5134","en","packages","Packages","18/1/2022 01:04:12","18/1/2022 01:04:12"
+"5135","en","upgrade","Upgrade","18/1/2022 01:04:12","18/1/2022 01:04:12"
+"5136","en","earnings","Earnings
+","18/1/2022 01:04:12","17/7/2024 06:53:59"
+"5137","en","payout_settings","Payout Settings","18/1/2022 01:04:12","18/1/2022 01:04:12"
+"5138","en","your_shop_has_been_updated_successfully","Your Shop has been updated successfully!","18/1/2022 01:07:16","18/1/2022 01:07:16"
+"5139","en","you_dont_have_any_active_package","You don't have any active package","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5140","en","purchase_your_package","Purchase Your Package","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5141","en","select_a_payment_method","Select a Payment Method","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5142","en","paypal","Paypal","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5143","en","stripe","Stripe","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5144","en","sslcommerz","sslcommerz","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5145","en","paystack","Paystack","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5146","en","flutterwave","Flutterwave","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5147","en","paytm","Paytm","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5148","en","confirm","Confirm","18/1/2022 01:15:39","18/1/2022 01:15:39"
+"5149","en","all_package_payments","All Package Payments","18/1/2022 01:15:41","18/1/2022 01:15:41"
+"5150","en","package","Package","18/1/2022 01:15:41","18/1/2022 01:15:41"
+"5151","en","paymant_method","paymant Method","18/1/2022 01:15:41","18/1/2022 01:15:41"
+"5152","en","all_seller_packages","All Seller Packages","18/1/2022 01:19:36","18/1/2022 01:19:36"
+"5153","en","add_new_package","Add New Package","18/1/2022 01:19:36","18/1/2022 01:19:36"
+"5154","en","create_new_seller_package","Create New Seller Package","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5155","en","package_name","Package Name","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5156","en","product_upload_limit","Product Upload Limit","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5157","en","commission","Commission","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5158","en","eg_5","Eg. 5","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5159","en","duration","Duration","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5160","en","validity_in_number_of_days","Validity in number of days","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5161","en","package_logo","Package Logo","18/1/2022 01:19:38","18/1/2022 01:19:38"
+"5162","en","package_has_been_added_successfully","Package has been added successfully","18/1/2022 01:21:06","18/1/2022 01:21:06"
+"5163","en","package_duration","Package Duration","18/1/2022 01:21:06","18/1/2022 01:21:06"
+"5164","en","purchase_package","Purchase Package","18/1/2022 01:21:21","18/1/2022 01:21:21"
+"5165","en","package_purchasing_successful","Package purchasing successful","18/1/2022 01:21:57","18/1/2022 01:21:57"
+"5166","en","your_current_package","Your current package","18/1/2022 01:22:10","18/1/2022 01:22:10"
+"5167","en","will_expire_at","will expire at","18/1/2022 01:22:10","18/1/2022 01:22:10"
+"5168","en","your_remaining_product_upload_limit","Your remaining product upload limit","18/1/2022 01:22:13","18/1/2022 01:22:13"
+"5169","en","edit_seller_information","Edit Seller Information","18/1/2022 06:29:24","18/1/2022 06:29:24"
+"5170","en","seller_information","Seller Information","18/1/2022 06:29:24","18/1/2022 06:29:24"
+"5171","en","seller_has_been_updated_successfully","Seller has been updated successfully","18/1/2022 06:29:37","18/1/2022 06:29:37"
+"5172","en","profile_info","Profile Info","18/1/2022 06:42:22","18/1/2022 06:42:22"
+"5173","en","photo","Photo","18/1/2022 06:42:22","18/1/2022 06:42:22"
+"5174","en","update_package_information","Update Package Information","18/1/2022 08:57:03","18/1/2022 08:57:03"
+"5175","en","package_has_been_updated_successfully","Package has been updated successfully","18/1/2022 08:57:24","18/1/2022 08:57:24"
+"5176","en","youve_reached_your_maximum_product_upload_limit","You've reached your maximum product upload limit","18/1/2022 22:14:48","18/1/2022 22:14:48"
+"5177","en","of","of","20/1/2022 20:29:25","20/1/2022 20:29:25"
+"5178","en","choose_shop","Choose Shop","20/1/2022 20:29:29","20/1/2022 20:29:29"
+"5179","en","seller_info","Seller info","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5180","en","shop_info","Shop info","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5181","en","current_package","Current package","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5182","en","current_balance","Current balance","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5183","en","no_active_package","No active Package","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5184","en","due_to_seller","Due to seller","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5185","en","valid_till","Valid till","20/1/2022 20:30:32","20/1/2022 20:30:32"
+"5186","en","upgrade_package","Upgrade Package","20/1/2022 20:37:09","20/1/2022 20:37:09"
+"5187","en","all_payments","All Payments","20/1/2022 21:31:53","20/1/2022 21:31:53"
+"5188","en","choose_seller","Choose Seller","20/1/2022 21:31:53","20/1/2022 21:31:53"
+"5189","en","daterange","Daterange","20/1/2022 21:31:53","20/1/2022 21:31:53"
+"5190","en","seller_withdraw_request","Seller Withdraw Request","20/1/2022 21:31:57","20/1/2022 21:31:57"
+"5191","en","total_amount_to_pay","Total Amount to Pay","20/1/2022 21:31:57","20/1/2022 21:31:57"
+"5192","en","requested_amount","Requested Amount","20/1/2022 21:31:57","20/1/2022 21:31:57"
+"5193","en","message","Message","20/1/2022 21:31:57","20/1/2022 21:31:57"
+"5194","en","admin_commission","Admin Commission","20/1/2022 21:31:59","20/1/2022 21:31:59"
+"5195","en","seller_earning","Seller Earning","20/1/2022 21:31:59","20/1/2022 21:31:59"
+"5196","en","calculated_at","Calculated At","20/1/2022 21:31:59","20/1/2022 21:31:59"
+"5197","en","all_shops_page_banner__link","All shops page banner & link","20/1/2022 21:43:35","20/1/2022 21:43:35"
+"5198","en","shop_registration_page_banner__link","Shop registration page banner & link","20/1/2022 21:43:35","20/1/2022 21:43:35"
+"5199","en","shop_section_1","Shop section 1","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5200","en","select_shop","Select shop","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5201","en","home_shop_banner_section_1","Home shop banner section 1","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5202","en","shop_section_2","Shop section 2","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5203","en","home_shop_banner_section_2","Home shop banner section 2","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5204","en","shop_section_3","Shop section 3","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5205","en","shop_section_4","Shop section 4","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5206","en","shop_section_5","Shop section 5","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5207","en","home_shop_banner_section_3","Home shop banner section 3","20/1/2022 21:45:29","20/1/2022 21:45:29"
+"5208","en","this_shop_is_successfully_added_to_your_following_list","This Shop is successfully added to your following list.","20/1/2022 22:18:29","20/1/2022 22:18:29"
+"5209","en","this_shop_is_successfully_removed_from_your_following_list","This Shop is successfully removed from your following list.","20/1/2022 22:18:30","20/1/2022 22:18:30"
+"5210","en","all_payouts","All payouts","20/1/2022 22:33:33","20/1/2022 22:33:33"
+"5211","en","pending_balance","Pending Balance","20/1/2022 22:33:37","20/1/2022 22:33:37"
+"5212","en","send_payout_request","Send payout request","20/1/2022 22:33:37","20/1/2022 22:33:37"
+"5213","en","payout_requests_history","Payout requests history","20/1/2022 22:33:37","20/1/2022 22:33:37"
+"5214","en","send_a_withdraw_request","Send A Withdraw Request","20/1/2022 22:33:37","20/1/2022 22:33:37"
+"5215","en","your_earning","Your Earning","20/1/2022 22:33:54","20/1/2022 22:33:54"
+"5216","en","money_withdraw_settings","Money Withdraw Settings","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5217","en","payment_setting","Payment Setting","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5218","en","cash_payment","Cash Payment","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5219","en","bank_payment","Bank Payment","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5220","en","bank_name","Bank Name
+","20/1/2022 22:33:59","4/7/2022 08:30:29"
+"5221","en","bank_account_name","Bank Account Name","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5222","en","bank_account_number","Bank Account Number","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5223","en","bank_routing_number","Bank Routing Number","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5224","en","update_withdraw_settings","Update Withdraw Settings","20/1/2022 22:33:59","20/1/2022 22:33:59"
+"5225","en","your_money_withdraw_ssettings_successfully","Your Money Withdraw Ssettings Successfully!","20/1/2022 22:36:20","20/1/2022 22:36:20"
+"5226","en","request_has_been_sent_successfully","Request has been sent successfully","20/1/2022 22:36:54","20/1/2022 22:36:54"
+"5227","en","pending","Pending
+","20/1/2022 22:36:54","13/3/2022 11:14:03"
+"5228","en","pay_now","Pay Now
+","20/1/2022 22:37:40","17/7/2024 06:55:05"
+"5229","en","requested_amount_is_","Requested Amount is ","20/1/2022 22:37:44","20/1/2022 22:37:44"
+"5230","en","select_payment_method","Select Payment Method","20/1/2022 22:37:44","20/1/2022 22:37:44"
+"5231","en","txn_code","Txn Code","20/1/2022 22:37:44","20/1/2022 22:37:44"
+"5232","en","pay","Pay","20/1/2022 22:37:44","20/1/2022 22:37:44"
+"5233","en","flw_encryption_key","FLW_ENCRYPTION_KEY","20/1/2022 22:37:59","20/1/2022 22:37:59"
+"5234","en","razorpay_key","Razorpay Key","20/1/2022 22:37:59","20/1/2022 22:37:59"
+"5235","en","razorpay_secret","Razorpay Secret","20/1/2022 22:37:59","20/1/2022 22:37:59"
+"5236","en","cash","Cash","20/1/2022 22:40:18","20/1/2022 22:40:18"
+"5237","en","payment_completed","Payment completed","20/1/2022 22:40:30","20/1/2022 22:40:30"
+"5238","en","recent_orders","Recent Orders","20/1/2022 22:47:00","20/1/2022 22:47:00"
+"5239","en","expires_","Expires ","20/1/2022 22:49:41","20/1/2022 22:49:41"
+"5240","en","product_upload_","Product Upload ","20/1/2022 22:49:41","20/1/2022 22:49:41"
+"5241","en","commission_","Commission ","20/1/2022 22:49:41","20/1/2022 22:49:41"
+"5242","en","youve_already_used_the_coupon","You've already used the coupon.","25/1/2022 19:59:51","25/1/2022 19:59:51"
+"5243","en","published_status","Published status","30/1/2022 21:23:19","30/1/2022 21:23:19"
+"5244","en","about","About","1/2/2022 06:43:35","1/2/2022 06:43:35"
+"5245","en","payout_info","Payout Info","1/2/2022 06:43:35","1/2/2022 06:43:35"
+"5246","en","bank_acc_name","Bank Acc Name","1/2/2022 06:43:35","1/2/2022 06:43:35"
+"5247","en","bank_acc_number","Bank Acc Number","1/2/2022 06:43:35","1/2/2022 06:43:35"
+"5248","en","total_sold_amount","Total Sold Amount","1/2/2022 06:43:35","1/2/2022 06:43:35"
+"5249","en","has_been_expired_at","has been expired at","1/2/2022 06:43:59","1/2/2022 06:43:59"
+"5250","en","main_banners","Main Banners","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5251","en","front_page_featured_products","Front page Featured Products","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5252","en","all_products_page_banner","All products page banner","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5253","en","front_page_banner_section_one","Front page Banner section one","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5254","en","front_page_banner_section_two","Front page Banner section two","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5255","en","front_page_banner_section_three","Front page Banner section three","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5256","en","front_page_banner_section_four","Front page Banner section four","1/2/2022 20:37:07","1/2/2022 20:37:07"
+"5257","en","welcome","Welcome","15/2/2022 12:11:39","15/2/2022 12:11:39"
+"5258","en","install_or_update_addon","Install or update Addon","15/2/2022 12:13:57","15/2/2022 12:13:57"
+"5259","en","purchase_code","Purchase code","15/2/2022 12:13:57","15/2/2022 12:13:57"
+"5260","en","earning_history","Earning History
+","13/3/2022 10:26:49","17/7/2024 06:54:00"
+"5261","en","this_version_is_not_capable_of_installing_addons_please_update","This version is not capable of installing Addons, Please update.","13/3/2022 10:27:08","13/3/2022 10:27:08"
+"5262","en","minimum_order_amount","Minimum order amount","13/3/2022 10:27:32","13/3/2022 10:27:32"
+"5263","en","customer_need_to_purchase_minimum_this_amount_of_admin_shop_products_to_place_an_order","Customer need to purchase minimum this amount of admin shop products to place an order.","13/3/2022 10:27:32","13/3/2022 10:27:32"
+"5264","en","addon_installed_successfully","Addon installed successfully","13/3/2022 10:27:55","13/3/2022 10:27:55"
+"5265","en","refund","Refund","13/3/2022 10:27:55","13/3/2022 10:27:55"
+"5266","en","refund_requests","Refund requests
+","13/3/2022 10:27:56","13/3/2022 11:14:03"
+"5267","en","refund_settings","Refund Settings","13/3/2022 10:27:56","13/3/2022 10:27:56"
+"5268","en","this_addon_is_updated_successfully","This addon is updated successfully","13/3/2022 10:28:05","13/3/2022 10:28:05"
+"5269","en","set_refund_time","Set Refund Time","13/3/2022 10:28:36","13/3/2022 10:28:36"
+"5270","en","set_time_period_for_refund_request_generation","Set Time Period for Refund Request Generation","13/3/2022 10:28:36","13/3/2022 10:28:36"
+"5271","en","select_order_status","Select Order Status","13/3/2022 10:28:36","13/3/2022 10:28:36"
+"5272","en","select_order_status_for_enabling_refund_request","Select Order Status for Enabling Refund Request","13/3/2022 10:28:36","13/3/2022 10:28:36"
+"5273","en","refund_reasons","Refund reasons
+","13/3/2022 10:28:36","13/3/2022 11:14:03"
+"5274","en","refund_reason_types","Refund Reason Types","13/3/2022 10:28:36","13/3/2022 10:28:36"
+"5275","en","tracking_information","Tracking information
+","13/3/2022 10:28:56","13/3/2022 11:14:03"
+"5276","en","courier_name","Courier name
+","13/3/2022 10:28:56","13/3/2022 11:14:03"
+"5277","en","tracking_number","Tracking number
+","13/3/2022 10:28:56","13/3/2022 11:14:03"
+"5278","en","tracking_url","Tracking url
+","13/3/2022 10:28:56","13/3/2022 11:14:03"
+"5279","en","order_updates","Order updates","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5280","en","accept_refund_request","Accept Refund Request.","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5281","en","select_pay_in_wallet_to_refund_in_the_customer_wallet_and_select_pay_manually_to_refund_customer_manually","Select Pay in Wallet to refund in the customer wallet. And select Pay Manually to refund customer manually.","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5282","en","this_amount_is_without_shipping_cost_if_you_want_to_add_shipping_cost_you_can_change_this_amount","This amount is without shipping cost. If you want to add shipping cost you can change this amount.","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5283","en","pay_manually","Pay Manually","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5284","en","pay_in_wallet","Pay in Wallet","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5285","en","reject_refund_request","Reject Refund Request.","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5286","en","do_you_really_want_to_reject_this_refund_request","Do you really want to reject this refund Request?","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5287","en","reject","Reject","13/3/2022 10:28:56","13/3/2022 10:28:56"
+"5288","en","added","Added
+","13/3/2022 10:29:08","13/3/2022 11:14:03"
+"5289","en","login_as_this_seller","Login as this seller","13/3/2022 10:30:00","13/3/2022 10:30:00"
+"5290","en","create_refund","Create Refund","13/3/2022 10:31:59","13/3/2022 10:31:59"
+"5291","en","refund_qty","Refund Qty","13/3/2022 10:32:08","13/3/2022 10:32:08"
+"5292","en","refund_info","Refund Info","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5293","en","refund_amount","Refund amount
+","13/3/2022 10:32:09","13/3/2022 11:14:03"
+"5294","en","reasons","Reasons","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5295","en","ordered_the_wrong_product","Ordered the wrong product","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5296","en","the_merchant_shipped_the_wrong_product","The merchant shipped the wrong product","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5297","en","the_product_is_damaged_or_defective","The product is damaged or defective","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5298","en","the_product_arrived_too_late","The product arrived too late","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5299","en","the_product_do_not_match_the_description","The product do not match the description","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5300","en","note","Note","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5301","en","payment_type","Payment Type
+","13/3/2022 10:32:09","4/7/2022 08:30:29"
+"5302","en","wallet","Wallet","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5303","en","manual","Manual","13/3/2022 10:32:09","13/3/2022 10:32:09"
+"5304","en","attachments","Attachments
+","13/3/2022 10:32:09","13/3/2022 11:14:03"
+"5305","en","refunded_successfully","Refunded Successfully.","13/3/2022 10:38:24","13/3/2022 10:38:24"
+"5306","en","refunded","Refunded","13/3/2022 10:38:26","13/3/2022 10:38:26"
+"5307","en","refund_type","Refund Type","13/3/2022 10:38:26","13/3/2022 10:38:26"
+"5308","en","partial","Partial","13/3/2022 10:38:26","13/3/2022 10:38:26"
+"5309","en","accepted","Accepted
+","13/3/2022 10:38:26","13/3/2022 11:14:03"
+"5310","en","refund_request_info","Refund Request Info","13/3/2022 10:38:26","13/3/2022 10:38:26"
+"5311","en","by","by","13/3/2022 10:38:26","13/3/2022 10:38:26"
+"5312","en","refund_request_information","Refund Request Information","13/3/2022 10:39:12","13/3/2022 10:39:12"
+"5313","en","refund_reason","Refund Reason","13/3/2022 10:39:12","13/3/2022 10:39:12"
+"5314","en","attachements","Attachements","13/3/2022 10:39:12","13/3/2022 10:39:12"
+"5315","en","no_attachment","No attachment","13/3/2022 10:39:12","13/3/2022 10:39:12"
+"5316","en","accpt_refund_request","Accpt Refund Request.","13/3/2022 10:39:54","13/3/2022 10:39:54"
+"5317","en","do_you_really_want_to_accept_this_refund_request","Do you really want to accept this refund Request?","13/3/2022 10:39:54","13/3/2022 10:39:54"
+"5318","en","accept","Accept","13/3/2022 10:39:54","13/3/2022 10:39:54"
+"5319","en","please_select_an_item_first","Please Select an item first.","13/3/2022 10:43:27","13/3/2022 10:43:27"
+"5320","en","admin_approval","Admin Approval","13/3/2022 10:46:12","13/3/2022 10:46:12"
+"5321","en","show_refund_info","Show Refund Info","13/3/2022 10:46:12","13/3/2022 10:46:12"
+"5322","en","create_refund_request","Create Refund Request","13/3/2022 10:51:39","13/3/2022 10:51:39"
+"5323","en","refunded_rejuest_rejected","Refunded Rejuest Rejected.","13/3/2022 11:00:03","13/3/2022 11:00:03"
+"5324","en","rejected","Rejected
+","13/3/2022 11:00:04","13/3/2022 11:14:03"
+"5325","en","refund_product_quantity_can_not_be_greater_than_the_ordered_product_quantity","Refund Product quantity can not be greater than the ordered product quantity
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5326","en","refund_information","Refund information
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5327","en","refund_note","Refund note
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5328","en","request_refund","Request Refund
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5329","en","shops","shops
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5330","en","congratulations_you_reached_the_minimum_order_amount","Congratulations! You reached the minimum order amount.
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5331","en","you_need_to_reach","You need to reach
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5332","en","to_place_order_from_this_shop","to place order from this shop.
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5333","en","to_place_order_from","to place order from
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5334","en","create_new_refund_request","Create new refund request
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5335","en","choose_one","Choose One
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5336","en","select_images","Select images
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5337","en","please_select_a_product","Please select a product
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5338","en","wallet_history","Wallet history
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5339","en","deducted","Deducted
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5340","en","we_will_get_back_to_very_soon","We will get back to very soon
+","13/3/2022 11:14:03","13/3/2022 11:14:03"
+"5341","en","your_request_has_been_submitted_successfully","Your request has been submitted successfully","13/3/2022 11:17:43","13/3/2022 11:17:43"
+"5342","en","customer_need_to_purchase_minimum_this_amount_of_your_shop_products_to_place_an_order","Customer need to purchase minimum this amount of your shop products to place an order.","13/3/2022 14:37:23","13/3/2022 14:37:23"
+"7751","en","a_verification_code_has_been_sent_to_your_phone_number","A verification code has been sent to your phone number.
+","24/4/2022 06:24:39","24/4/2022 06:24:39"
+"7752","en","enter_your_phone_number_to_recover_your_password","Enter your phone number to recover your password
+","24/4/2022 06:24:39","24/4/2022 06:24:39"
+"7753","en","enter_your_email_or_your_phone_to_recover_your_password","Enter your email or your phone to recover your password
+","24/4/2022 06:24:39","24/4/2022 06:24:39"
+"7754","en","enter_your_phone_number_code__new_password","Enter your phone number, Code & New Password
+","24/4/2022 06:24:39","24/4/2022 06:24:39"
+"7755","en","enter_your_phone_number_verification_code","Enter your phone number, verification code
+","24/4/2022 06:24:39","24/4/2022 06:24:39"
+"7756","en","use_phone_instead","use phone instead
+","24/4/2022 06:24:40","17/5/2022 11:03:21"
+"7757","en","otp_settings","OTP Settings","24/4/2022 06:25:02","24/4/2022 06:25:02"
+"7758","en","write_css_with","Write css with","17/5/2022 10:53:20","17/5/2022 10:53:20"
+"7759","en","tag","tag","17/5/2022 10:53:21","17/5/2022 10:53:21"
+"7760","en","header_custom_script__before","Header custom script - before","17/5/2022 10:53:21","17/5/2022 10:53:21"
+"7761","en","write_script_with","Write script with","17/5/2022 10:53:21","17/5/2022 10:53:21"
+"7762","en","footer_custom_script__before","Footer custom script - before","17/5/2022 10:53:21","17/5/2022 10:53:21"
+"7763","en","enter_your_email_or_your_phone_number_to_recover_your_password","Enter your email or your phone number to recover your password
+","17/5/2022 11:03:20","17/5/2022 11:03:20"
+"7764","en","conversations","Conversations
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7765","en","no_conversation_found","No Conversation Found
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7766","en","my_conversations","My Conversations
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7767","en","message_seller","Message Seller
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7768","en","any_query_about_this_product","Any query about this product
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7769","en","question","Question
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7770","en","message_has_been_sent_to_seller","Message has been sent to seller
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7771","en","conversation_with","Conversation with
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7772","en","product_query","Product Query
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7773","en","my_querries","My Querries
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7774","en","new","New
+","17/5/2022 11:03:21","17/5/2022 11:03:21"
+"7775","en","query_with","Query With
+","17/5/2022 11:03:21","18/5/2022 08:51:39"
+"7776","en","clear_cache","Clear Cache","17/5/2022 11:03:32","17/5/2022 11:03:32"
+"7777","en","conversation_system_activation","Conversation System Activation","17/5/2022 11:05:05","17/5/2022 11:05:05"
+"7778","en","successfully_logged_in","Successfully logged in","17/5/2022 11:06:10","17/5/2022 11:06:10"
+"7779","en","all_querries","All Querries","17/5/2022 11:06:33","17/5/2022 11:06:33"
+"7780","en","between_you_and","Between you and","17/5/2022 11:06:37","17/5/2022 11:06:37"
+"7781","en","type_your_reply","Type your reply","17/5/2022 11:06:37","17/5/2022 11:06:37"
+"7782","en","message_has_been_sent","Message has been sent","17/5/2022 11:06:47","17/5/2022 11:06:47"
+"7783","en","app_key","App Key","17/5/2022 11:15:08","17/5/2022 11:15:08"
+"7784","en","twitter_app_key","Twitter App Key","17/5/2022 11:15:08","17/5/2022 11:15:08"
+"7785","en","twitter_app_secret","Twitter App Secret","17/5/2022 11:15:08","17/5/2022 11:15:08"
+"7786","en","cache_cleared_successfully","Cache cleared successfully","17/5/2022 11:16:42","17/5/2022 11:16:42"
+"7787","en","sender","Sender","17/5/2022 11:19:35","17/5/2022 11:19:35"
+"7788","en","see_details","See Details","17/5/2022 11:19:35","17/5/2022 11:19:35"
+"7789","en","shorten_large_price","Shorten Large Price","17/5/2022 12:27:53","17/5/2022 12:27:53"
+"7790","en","product_querries","Product Querries
+","18/5/2022 08:50:03","18/5/2022 08:51:39"
+"7791","en","contact_admin","Contact Admin
+","18/5/2022 08:51:39","4/7/2022 08:30:29"
+"7792","en","enter_your_email_address_or_phone_number_to_recover_your_password","Enter your email address or phone number to recover your password
+","6/6/2022 13:36:50","6/6/2022 13:36:50"
+"7793","en","sticky_header","Sticky Header","6/6/2022 13:38:25","6/6/2022 13:38:25"
+"7794","en","pos_system","POS System","14/6/2022 12:37:28","14/6/2022 12:37:28"
+"7795","en","pos_manager","POS Manager","14/6/2022 12:37:28","14/6/2022 12:37:28"
+"7796","en","pos_configuration","POS Configuration","14/6/2022 12:37:28","14/6/2022 12:37:28"
+"7797","en","search_by_product_name","Search by Product Name","14/6/2022 12:37:37","14/6/2022 12:37:37"
+"7798","en","loading","Loading..","14/6/2022 12:37:37","14/6/2022 12:37:37"
+"7799","en","walk_in_customer","Walk In Customer","14/6/2022 12:37:37","14/6/2022 12:37:37"
+"7800","en","no_product_added","No Product Added","14/6/2022 12:37:37","14/6/2022 12:37:37"
+"7801","en","place_order","Place Order","14/6/2022 12:37:37","14/6/2022 12:37:37"
+"7802","en","select_your_country","Select your country","14/6/2022 12:37:37","14/6/2022 12:37:37"
+"7803","en","city","City","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7804","en","confirm_with_cod","Confirm with COD","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7805","en","confirm_with_cash","Confirm with Cash","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7806","en","offline_payment_info","Offline Payment Info","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7807","en","transaction_id","Transaction ID
+","14/6/2022 12:37:38","4/7/2022 08:30:29"
+"7808","en","payment_proof","Payment Proof","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7809","en","choose_image","Choose image","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7810","en","load_more","Load More.","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7811","en","nothing_more_found","Nothing more found.","14/6/2022 12:37:38","14/6/2022 12:37:38"
+"7812","en","no_customer_information_selected","No customer information selected.","14/6/2022 12:45:19","14/6/2022 12:45:19"
+"7813","en","account_details","Account details
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7814","en","routing_number","Routing Number
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7815","en","account_number","Account Number
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7816","en","account_name","Account Name
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7817","en","bank_info","Bank Info
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7818","en","payment_name","Payment Name
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7819","en","please_input_transaction_id","Please input transaction id
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7820","en","add_receipt","Add Receipt
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7821","en","wallet_recharge_successful","Wallet Recharge Successful
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7822","en","please_wait_for_approval","Please Wait For Approval
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7823","en","receipt","Receipt
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7824","en","payment_details","Payment Details
+","4/7/2022 08:30:29","4/7/2022 08:30:29"
+"7825","en","paid_via","Paid Via
+","4/7/2022 08:30:29","16/8/2022 11:22:13"
+"7826","en","offline_payment","Offline Payment","4/7/2022 08:31:48","4/7/2022 08:31:48"
+"7827","en","offline_payment_system","Offline Payment System","4/7/2022 08:31:58","4/7/2022 08:31:58"
+"7828","en","manual_payment_methods","Manual Payment Methods","4/7/2022 08:31:59","4/7/2022 08:31:59"
+"7829","en","offline_wallet_recharge","Offline Wallet Recharge","4/7/2022 08:31:59","4/7/2022 08:31:59"
+"7830","en","offline_seller_package_payments","Offline Seller Package Payments","4/7/2022 08:31:59","4/7/2022 08:31:59"
+"7831","en","add_new_payment_method","Add New Payment Method","4/7/2022 08:32:04","4/7/2022 08:32:04"
+"7832","en","manual_payment_method","Manual Payment Method","4/7/2022 08:32:05","4/7/2022 08:32:05"
+"7833","en","heading","Heading","4/7/2022 08:32:05","4/7/2022 08:32:05"
+"7834","en","manual_payment_information","Manual Payment Information","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7835","en","custom_payment","Custom Payment","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7836","en","cheque_payment","Cheque Payment","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7837","en","checkout_thumbnail","Checkout Thumbnail","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7838","en","payment_instruction","Payment Instruction","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7839","en","bank_information","Bank Information","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7840","en","add_more","Add More","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7841","en","remove","Remove","4/7/2022 08:32:08","4/7/2022 08:32:08"
+"7842","en","offline_wallet_recharge_requests","Offline Wallet Recharge Requests","4/7/2022 08:32:23","4/7/2022 08:32:23"
+"7843","en","method","Method","4/7/2022 08:32:23","4/7/2022 08:32:23"
+"7844","en","txn_id","TXN ID","4/7/2022 08:32:23","4/7/2022 08:32:23"
+"7845","en","approval","Approval","4/7/2022 08:32:23","4/7/2022 08:32:23"
+"7846","en","money_has_been_added_successfully","Money has been added successfully","4/7/2022 08:32:24","4/7/2022 08:32:24"
+"7847","en","welcome","Welcome","4/7/2022 09:53:01","4/7/2022 09:53:01"
+"7848","en","method_has_been_inserted_successfully","Method has been inserted successfully","4/7/2022 10:06:28","4/7/2022 10:06:28"
+"7849","en","offline_seller_package_payment_requests","Offline Seller Package Payment Requests","4/7/2022 10:07:03","4/7/2022 10:07:03"
+"7850","en","reciept","Reciept","4/7/2022 10:07:03","4/7/2022 10:07:03"
+"7851","en","offline_seller_package_payment_approved_successfully","Offline Seller Package Payment approved successfully","4/7/2022 10:07:03","4/7/2022 10:07:03"
+"7852","en","address_has_been_marked_as_default_billing_address","Address has been marked as default billing address.","4/7/2022 11:14:30","4/7/2022 11:14:30"
+"7853","en","check_payment","Check Payment","4/7/2022 13:01:45","4/7/2022 13:01:45"
+"7854","en","you_have_more_uploaded_products_than_this_package_limit_you_need_to_remove_excessive_products_to_downgrade","You have more uploaded products than this package limit. You need to remove excessive products to downgrade.","4/7/2022 14:45:17","4/7/2022 14:45:17"
+"7855","en","all_blogs","All Blogs
+","16/8/2022 11:22:14","16/8/2022 11:22:14"
+"7856","en","read_full_blog","Read full blog
+","16/8/2022 11:22:14","16/8/2022 11:22:14"
+"7857","en","social_media","Social Media
+","16/8/2022 11:22:14","16/8/2022 11:22:14"
+"7858","en","recent_blogs","Recent Blogs
+","16/8/2022 11:22:14","16/8/2022 11:22:14"
+"7859","en","no_blog_found","No Blog Found
+","16/8/2022 11:22:14","14/9/2022 10:14:14"
+"7860","en","blog","Blog","16/8/2022 11:22:20","16/8/2022 11:22:20"
+"7861","en","blog_categories","Blog Categories","16/8/2022 11:22:21","16/8/2022 11:22:21"
+"7862","en","all_blog_posts","All Blog Posts","16/8/2022 11:22:38","16/8/2022 11:22:38"
+"7863","en","add_new_blog_post","Add New Blog Post","16/8/2022 11:22:38","16/8/2022 11:22:38"
+"7864","en","short_description","Short Description","16/8/2022 11:22:38","16/8/2022 11:22:38"
+"7865","en","change_blog_status_successfully","Change blog status successfully","16/8/2022 11:22:38","16/8/2022 11:22:38"
+"7866","en","blog_information","Blog Information","16/8/2022 11:22:42","16/8/2022 11:22:42"
+"7867","en","blog_title","Blog Title","16/8/2022 11:22:42","16/8/2022 11:22:42"
+"7868","en","meta_keywords","Meta Keywords","16/8/2022 11:22:42","16/8/2022 11:22:42"
+"7869","en","all_blog_categories","All Blog Categories","16/8/2022 11:38:41","16/8/2022 11:38:41"
+"7870","en","add_new_blog_category","Add New Blog Category","16/8/2022 11:38:42","16/8/2022 11:38:42"
+"7871","en","blog_category_has_been_created_successfully","Blog category has been created successfully","16/8/2022 11:38:48","16/8/2022 11:38:48"
+"7872","en","blog_post_has_been_created_successfully","Blog post has been created successfully","16/8/2022 11:48:55","16/8/2022 11:48:55"
+"7873","en","update_blog_information","Update Blog Information","21/8/2022 09:22:45","21/8/2022 09:22:45"
+"7874","en","blog_post_has_been_updated_successfully","Blog post has been updated successfully","21/8/2022 09:22:55","21/8/2022 09:22:55"
+"7875","en","blog_has_been_deleted_successfully","Blog has been deleted successfully","21/8/2022 09:53:20","21/8/2022 09:53:20"
+"7876","en","loginregistration_setting","Login/Registration Setting","1/9/2022 13:02:58","1/9/2022 13:02:58"
+"7877","en","loginregistration_with","Login/Registration with","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7878","en","email__phone","Email & Phone","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7879","en","otp_vertification_with","OTP vertification with","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7880","en","disabled","Disabled","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7881","en","if_you_select_disabled_then_customers_can_register_and_access_their_panel_the_dont_need_to_verify","If you select disabled, then customers can register and access their panel. The don't need to verify.","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7882","en","if_you_select_loginregistration_with_email_then_customers_need_to_verify_their_email","If you select Login/Registration with email, then customers need to verify their email.","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7883","en","if_you_select_loginregistration_with_phone_then_customers_need_to_verify_their_phone","If you select Login/Registration with phone, then customers need to verify their phone.","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7884","en","if_you_select_loginregistration_with_email__phone_then_customers_need_to_verify_their_phone_or_email_based_on_this_selected_option","If you select Login/Registration with email & phone, then customers need to verify their phone or email based on this selected option.","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7885","en","if_you_use_phone_verification_or_login_with_phone_only_make_sure_youve_configured_any_sms_gateway_properly","If you use phone verification or login with phone only, make sure you've configured any sms gateway properly.","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7886","en","active_sms_gateway","Active sms gateway","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7887","en","twilio","Twilio","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7888","en","vonage","Vonage","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7889","en","twilio_credential","Twilio Credential","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7890","en","twilio_sid","TWILIO SID","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7891","en","twilio_auth_token","TWILIO AUTH TOKEN","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7892","en","valid_twilio_number","VALID TWILIO NUMBER","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7893","en","vonage_credential","Vonage Credential","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7894","en","vonage_key","VONAGE KEY","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7895","en","vonage_secret","VONAGE SECRET","1/9/2022 13:03:01","1/9/2022 13:03:01"
+"7896","en","authorize_net","Authorize Net","14/9/2022 10:13:21","14/9/2022 10:13:21"
+"7897","en","mercadopago","Mercadopago","14/9/2022 10:13:21","14/9/2022 10:13:21"
+"7898","en","please_enter_cvv","Please enter cvv
+","14/9/2022 10:14:14","14/9/2022 10:14:14"
+"7899","en","please_enter_valid_card_number","Please enter valid card number
+","14/9/2022 10:14:14","14/9/2022 10:14:14"
+"7900","en","select_month","Select Month
+","14/9/2022 10:14:14","14/9/2022 10:14:14"
+"7901","en","select_year","Select Year
+","14/9/2022 10:14:14","14/12/2022 08:06:05"
+"7902","en","merchant_login_id","Merchant Login ID","14/9/2022 10:20:24","14/9/2022 10:20:24"
+"7903","en","merchant_transaction_key","Merchant Transaction Key","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7904","en","authorize_net_sandbox_mode","Authorize Net Sandbox Mode","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7905","en","payfast_credential","Payfast Credential","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7906","en","payfast_merchant_id","Payfast Merchant ID","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7907","en","payfast_merchant_key","Payfast Merchant Key","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7908","en","payfast_sandbox_mode","Payfast Sandbox Mode","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7909","en","mercadopago_credential","Mercadopago Credential","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7910","en","mercadopago_key","Mercadopago Key","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7911","en","mercadopago_access","Mercadopago Access","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7912","en","mercadopago_currency","Mercadopago Currency","14/9/2022 10:20:25","14/9/2022 10:20:25"
+"7913","en","show_language_switcher","Show Language Switcher?","17/10/2022 18:49:24","17/10/2022 18:49:24"
+"7914","en","welcome","Welcome","19/10/2022 11:07:01","19/10/2022 11:07:01"
+"7915","en","link_with","Link with","24/10/2022 06:55:41","24/10/2022 06:55:41"
+"7916","en","specification_key","Specification Key","24/10/2022 07:13:56","24/10/2022 07:13:56"
+"7917","en","additional_fields","Additional Fields","24/10/2022 07:15:01","24/10/2022 07:15:01"
+"7918","en","enter_field_title","Enter Field Title","24/10/2022 07:15:01","24/10/2022 07:15:01"
+"7919","en","category_has_been_deleted_successfully","Category has been deleted successfully","24/10/2022 07:47:31","24/10/2022 07:47:31"
+"7920","en","specifications","Specifications","24/10/2022 08:11:56","24/10/2022 08:11:56"
+"7921","en","product_specifications","Product Specifications","25/10/2022 06:29:37","25/10/2022 06:29:37"
+"7922","en","please_add_shipping_information","Please Add Shipping Information.","25/10/2022 14:15:35","25/10/2022 14:15:35"
+"7923","en","order_completed_successfully","Order Completed Successfully.","25/10/2022 14:16:06","25/10/2022 14:16:06"
+"7924","en","default_language_can_not_be_disbaled","Default language can not be disbaled","27/10/2022 06:59:40","27/10/2022 06:59:40"
+"7925","en","shipping_divisions","Shipping Divisions","27/10/2022 12:21:16","27/10/2022 12:21:16"
+"7926","en","shipping_districts","Shipping Districts","27/10/2022 12:21:17","27/10/2022 12:21:17"
+"7927","en","website_hover_color","Website Hover Color","30/10/2022 14:42:45","30/10/2022 14:42:45"
+"7928","en","all_districts","All Districts","1/11/2022 05:19:37","1/11/2022 05:19:37"
+"7929","en","districts","Districts","1/11/2022 05:19:39","1/11/2022 05:19:39"
+"7930","en","all_divisions","All Divisions","1/11/2022 05:19:52","1/11/2022 05:19:52"
+"7931","en","divisions","Divisions","1/11/2022 05:19:52","1/11/2022 05:19:52"
+"7932","en","offline_seller_package_payment_confirmation","Offline Seller Package Payment Confirmation","16/11/2022 12:18:10","16/11/2022 12:18:10"
+"7933","en","are_you_sure_to_approve_this","Are you sure to approve this?","16/11/2022 12:18:11","16/11/2022 12:18:11"
+"7934","en","yes_approve","Yes, Approve","16/11/2022 12:18:11","16/11/2022 12:18:11"
+"7935","en","you_are_banned","You are banned!","17/11/2022 07:20:03","17/11/2022 07:20:03"
+"7936","en","ban_this_customer","Ban this Customer","17/11/2022 07:33:31","17/11/2022 07:33:31"
+"7937","en","customer_banned_successfully","Customer Banned Successfully","17/11/2022 07:38:54","17/11/2022 07:38:54"
+"7938","en","unban_this_customer","Unban this Customer","17/11/2022 07:38:55","17/11/2022 07:38:55"
+"7939","en","customer_unbanned_successfully","Customer Unbanned Successfully","17/11/2022 07:39:03","17/11/2022 07:39:03"
+"7940","en","razorpay","Razorpay","27/11/2022 13:27:13","27/11/2022 13:27:13"
+"7941","en","payfast","Payfast","27/11/2022 13:27:13","27/11/2022 13:27:13"
+"7942","en","card_number","Card Number","27/11/2022 13:27:13","27/11/2022 13:27:13"
+"7943","en","cvv","CVV","27/11/2022 13:27:13","27/11/2022 13:27:13"
+"7944","en","expiration_date","Expiration Date","27/11/2022 13:27:13","27/11/2022 13:27:13"
+"7945","en","back_to_uploaded_files","Back to uploaded files","28/11/2022 14:10:35","28/11/2022 14:10:35"
+"7946","en","drag__drop_your_files","Drag & drop your files","28/11/2022 14:10:36","28/11/2022 14:10:36"
+"7947","en","maintenance_mode","Maintenance Mode","30/11/2022 08:28:07","30/11/2022 08:28:07"
+"7948","en","oops","OOPS!","30/11/2022 08:28:23","30/11/2022 08:28:23"
+"7949","en","this_site_is_under_developement_we_will_be_back_soon","This site is under developement. We will be back soon!!","30/11/2022 08:28:23","30/11/2022 08:28:23"
+"7950","en","ok_i_understood","Ok. I Understood","4/12/2022 07:12:19","4/12/2022 07:12:19"
+"7951","en","cookies_agreement","Cookies Agreement","4/12/2022 07:47:37","4/12/2022 07:47:37"
+"7952","en","cookies_agreement_text","Cookies Agreement Text","4/12/2022 07:48:39","4/12/2022 07:48:39"
+"7953","en","show_cookies_agreement","Show Cookies Agreement?","4/12/2022 07:48:39","4/12/2022 07:48:39"
+"7954","en","user_already_exists_with_this_email_or_phone","User already exists with this email or phone.","4/12/2022 11:42:28","4/12/2022 11:42:28"
+"7955","en","shop_registration_message","Shop Registration Message","4/12/2022 12:09:37","4/12/2022 12:09:37"
+"7956","en","shop_registration_message_heading","Shop Registration Message Heading","4/12/2022 12:16:39","4/12/2022 12:16:39"
+"7957","en","shop_registration_message_title","Shop Registration Message Title","4/12/2022 12:20:02","4/12/2022 12:20:02"
+"7958","en","shop_registration_message_content","Shop Registration Message Content","4/12/2022 12:20:02","4/12/2022 12:20:02"
+"7959","en","seller_has_been_deleted_successfully","Seller has been deleted successfully","5/12/2022 10:48:32","5/12/2022 10:48:32"
+"7960","en","we_are_under_maintenance","We are Under Maintenance.","6/12/2022 06:22:20","6/12/2022 06:22:20"
+"7961","en","we_will_be_back_soon","We will be back soon!","6/12/2022 06:22:20","6/12/2022 06:22:20"
+"7962","en","earning_points","Earning Points
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7963","en","my_points","My Points
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7964","en","point","Point
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7965","en","wallet_money","Wallet Money
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7966","en","point_earning_history","Point Earning history
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7967","en","points","Points
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7968","en","converted","Converted
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7969","en","pts","Pts
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7970","en","convert_now","Convert Now
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7971","en","done","Done
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7972","en","club_point_converted_to_wallet_successfully","Club point converted to wallet successfully
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7973","en","convert_club_points_to_wallet","Convert club points to wallet?
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7974","en","club_points","Club Points
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7975","en","total_club_points","Total Club Points
+","14/12/2022 08:06:05","14/12/2022 08:06:05"
+"7976","en","the_order_is_not_paid","The order is not paid
+","14/12/2022 08:06:05","19/6/2023 11:34:07"
+"7977","en","temp_id_updated","temp id updated","18/12/2022 06:41:59","18/12/2022 06:41:59"
+"7978","en","select_city","Select City","21/12/2022 09:38:04","21/12/2022 09:38:04"
+"7979","en","pos_activation_for_seller","POS Activation for Seller","28/12/2022 04:37:46","28/12/2022 04:37:46"
+"7980","en","an_email_has_been_sent","An email has been sent.","3/1/2023 09:46:35","3/1/2023 09:46:35"
+"7981","en","welcome","Welcome","17/5/2023 06:35:49","17/5/2023 06:35:49"
+"7982","en","iyzico","iyzico","17/5/2023 06:35:57","17/5/2023 06:35:57"
+"7983","en","digital_products","Digital Products","17/5/2023 08:29:03","17/5/2023 08:29:03"
+"7984","en","add_new_digital_product","Add New Digital Product","17/5/2023 08:50:47","17/5/2023 08:50:47"
+"7985","en","product_file","Product File","17/5/2023 08:53:22","17/5/2023 08:53:22"
+"7986","en","type_to_add_a_tag","Type to add a tag","17/5/2023 08:53:22","17/5/2023 08:53:22"
+"7987","en","images","Images","17/5/2023 08:53:23","17/5/2023 08:53:23"
+"7988","en","main_images","Main Images","17/5/2023 08:53:23","17/5/2023 08:53:23"
+"7989","en","meta_tags","Meta Tags","17/5/2023 08:53:23","17/5/2023 08:53:23"
+"7990","en","select_date","Select Date","17/5/2023 08:53:23","17/5/2023 08:53:23"
+"7991","en","save_product","Save Product","17/5/2023 08:53:23","17/5/2023 08:53:23"
+"7992","en","physical","Physical","17/5/2023 08:54:43","17/5/2023 08:54:43"
+"7993","en","digital","Digital","17/5/2023 08:54:43","17/5/2023 08:54:43"
+"7994","en","edit_digital_product","Edit Digital Product","17/5/2023 09:24:50","17/5/2023 09:24:50"
+"7995","en","bulk_import","Bulk Import","17/5/2023 09:34:14","17/5/2023 09:34:14"
+"7996","en","bulk_export","Bulk Export","17/5/2023 09:34:17","17/5/2023 09:34:17"
+"7997","en","total_sold","Total Sold","17/5/2023 11:11:20","17/5/2023 11:11:20"
+"7998","en","product_bulk_upload","Product Bulk Upload","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"7999","en","step_1","Step 1","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"8000","en","download_the_skeleton_file_and_fill_it_with_proper_data","Download the skeleton file and fill it with proper data","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"8001","en","you_can_download_the_example_file_to_understand_how_the_data_must_be_filled","You can download the example file to understand how the data must be filled","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"8002","en","once_you_have_downloaded_and_filled_the_skeleton_file_upload_it_in_the_form_below_and_submit","Once you have downloaded and filled the skeleton file, upload it in the form below and submit","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"8003","en","after_uploading_products_you_need_to_edit_them_and_set_products_images_and_choices","After uploading products you need to edit them and set product's images and choices","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"8004","en","download_csv","Download CSV","17/5/2023 11:19:57","17/5/2023 11:19:57"
+"8005","en","step_2","Step 2","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8006","en","category_and_brand_should_be_in_numerical_id","Category and Brand should be in numerical id","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8007","en","you_can_download_the_pdf_to_get_category_and_brand_id","You can download the pdf to get Category and Brand id","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8008","en","download_category","Download Category","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8009","en","download_brand","Download Brand","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8010","en","upload_product_file","Upload Product File","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8011","en","upload_csv","Upload CSV","17/5/2023 11:19:58","17/5/2023 11:19:58"
+"8012","en","brand_name","Brand Name","17/5/2023 11:21:40","17/5/2023 11:21:40"
+"8013","en","id","ID","17/5/2023 11:21:40","17/5/2023 11:21:40"
+"8014","en","your_shop_is_not_verified_yet","Your shop is not verified yet!","17/5/2023 11:31:00","17/5/2023 11:31:00"
+"8015","en","category_name","Category Name","17/5/2023 11:45:05","17/5/2023 11:45:05"
+"8016","en","products_imported_successfully","Products imported successfully","17/5/2023 11:55:15","17/5/2023 11:55:15"
+"8017","en","show_language_switcher","Show Language Switcher?","29/5/2023 07:31:40","29/5/2023 07:31:40"
+"8018","en","order_has_been_placed","Order has been placed","30/5/2023 13:16:52","30/5/2023 13:16:52"
+"8019","en","seller_minimum_withdrawal_amount","Seller Minimum Withdrawal Amount","1/6/2023 12:11:13","1/6/2023 12:11:13"
+"8020","en","minimum_withdrawal_amount","Minimum withdrawal amount","1/6/2023 12:11:18","1/6/2023 12:11:18"
+"8021","en","club_point_activation","Club Point Activation","1/6/2023 12:11:19","1/6/2023 12:11:19"
+"8022","en","product_comparison","Product Comparison","1/6/2023 12:11:19","1/6/2023 12:11:19"
+"8023","en","admin_approval_on_seller_product","Admin Approval On Seller Product","1/6/2023 12:11:19","1/6/2023 12:11:19"
+"8024","en","affiliate_system","Affiliate System","1/6/2023 12:33:40","1/6/2023 12:33:40"
+"8025","en","affiliate_registration_form","Affiliate Registration Form","1/6/2023 12:33:40","1/6/2023 12:33:40"
+"8026","en","affiliate_configurations","Affiliate Configurations","1/6/2023 12:33:40","1/6/2023 12:33:40"
+"8027","en","affiliate_users","Affiliate Users","1/6/2023 12:33:40","1/6/2023 12:33:40"
+"8028","en","referral_users","Referral Users","1/6/2023 12:33:40","1/6/2023 12:33:40"
+"8029","en","affiliate_withdraw_requests","Affiliate Withdraw Requests","1/6/2023 12:33:41","1/6/2023 12:33:41"
+"8030","en","affiliate_logs","Affiliate Logs","1/6/2023 12:33:41","1/6/2023 12:33:41"
+"8031","en","basic_affiliate","Basic Affiliate","1/6/2023 12:34:58","1/6/2023 12:34:58"
+"8032","en","user_registration__first_purchase","User Registration & First Purchase","1/6/2023 12:34:58","1/6/2023 12:34:58"
+"8033","en","affiliate_link_validatin_time_days","Affiliate Link Validatin Time (Days)","1/6/2023 12:38:39","1/6/2023 12:38:39"
+"8034","en","validation_time","Validation Time","1/6/2023 12:38:39","1/6/2023 12:38:39"
+"8035","en","no_of_days","No of Days","1/6/2023 12:38:40","1/6/2023 12:38:40"
+"8036","en","nb_you_can_not_enable_single_product_sharing_affiliate_and_category_wise_affiliate_at_a_time","N:B: You can not enable Single Product Sharing Affiliate and Category Wise Affiliate at a time.","1/6/2023 12:38:40","1/6/2023 12:38:40"
+"8037","en","product_sharing_affiliate_category_wise","Product Sharing Affiliate (Category Wise)","1/6/2023 12:38:40","1/6/2023 12:38:40"
+"8038","en","product_sharing_affiliate","Product Sharing Affiliate","1/6/2023 12:38:40","1/6/2023 12:38:40"
+"8039","en","product_sharing_and_purchasing","Product Sharing and Purchasing","1/6/2023 12:38:40","1/6/2023 12:38:40"
+"8040","en","verification_info","Verification Info","1/6/2023 12:44:26","1/6/2023 12:44:26"
+"8041","en","due_amount","Due Amount","1/6/2023 12:44:26","1/6/2023 12:44:26"
+"8042","en","affiliate_user_approval_updated_successfully","Affiliate user approval updated successfully","1/6/2023 12:44:26","1/6/2023 12:44:26"
+"8043","en","refferal_users","Refferal Users","1/6/2023 12:44:32","1/6/2023 12:44:32"
+"8044","en","reffered_by","Reffered By","1/6/2023 12:44:32","1/6/2023 12:44:32"
+"8045","en","affiliate_withdraw_request","Affiliate Withdraw Request
+","1/6/2023 12:44:37","6/8/2023 07:07:32"
+"8046","en","affiliate_withdraw_request_reject","Affiliate Withdraw Request Reject","1/6/2023 12:44:38","1/6/2023 12:44:38"
+"8047","en","are_you_sure_you_want_to_reject_this","Are you sure, You want to reject this?","1/6/2023 12:44:38","1/6/2023 12:44:38"
+"8048","en","referred_by","Referred By","1/6/2023 12:44:43","1/6/2023 12:44:43"
+"8049","en","referral_user","Referral User","1/6/2023 12:44:44","1/6/2023 12:44:44"
+"8050","en","order_id","Order Id","1/6/2023 12:44:44","1/6/2023 12:44:44"
+"8051","en","referral_type","Referral Type","1/6/2023 12:44:44","1/6/2023 12:44:44"
+"8052","en","text_input","Text Input","1/6/2023 12:47:29","1/6/2023 12:47:29"
+"8053","en","select","Select","1/6/2023 12:47:29","1/6/2023 12:47:29"
+"8054","en","multiple_select","Multiple Select","1/6/2023 12:47:29","1/6/2023 12:47:29"
+"8055","en","radio","Radio","1/6/2023 12:47:29","1/6/2023 12:47:29"
+"8056","en","seller_verification_form","Seller Verification Form","1/6/2023 14:26:02","1/6/2023 14:26:02"
+"8057","en","select_label","Select Label","1/6/2023 14:43:24","1/6/2023 14:43:24"
+"8058","en","multiple_select_label","Multiple Select Label","1/6/2023 14:43:26","1/6/2023 14:43:26"
+"8059","en","radio_label","Radio Label","1/6/2023 14:43:26","1/6/2023 14:43:26"
+"8060","en","seller_verification_form777","Seller Verification Form777","5/6/2023 13:23:17","5/6/2023 13:23:17"
+"8061","en","verification_form_updated_successfully","Verification form updated successfully","5/6/2023 13:35:06","5/6/2023 13:35:06"
+"8064","en","forgot_password_","Forgot password ?","13/6/2023 06:23:10","13/6/2023 06:23:10"
+"8065","en","verify_now","Verify Now","13/6/2023 06:38:09","13/6/2023 06:38:09"
+"8066","en","shop_verification","Shop Verification","13/6/2023 07:04:00","13/6/2023 07:04:00"
+"8067","en","visit_shop","Visit Shop","13/6/2023 07:04:44","13/6/2023 07:04:44"
+"8068","en","shop_verification_info","Shop Verification info","13/6/2023 07:07:16","13/6/2023 07:07:16"
+"8069","en","your_shop_verification_request_has_been_submitted_successfully","Your shop verification request has been submitted successfully!","13/6/2023 07:10:23","13/6/2023 07:10:23"
+"8070","en","sorry_you_have_sent_verification_request_already","Sorry! You have sent verification request already.","13/6/2023 07:10:30","13/6/2023 07:10:30"
+"8071","en","seller_verification","Seller Verification","13/6/2023 07:55:36","13/6/2023 07:55:36"
+"8072","en","user_info","User Info","13/6/2023 08:00:13","13/6/2023 08:00:13"
+"8073","en","click_here","Click here","13/6/2023 08:00:13","13/6/2023 08:00:13"
+"8074","en","seller_has_been_approved_successfully","Seller has been approved successfully","13/6/2023 08:06:29","13/6/2023 08:06:29"
+"8075","en","seller_verification_request_has_been_rejected_successfully","Seller verification request has been rejected successfully","13/6/2023 08:07:47","13/6/2023 08:07:47"
+"8076","en","sorry_you_have_already_sent_a_verification_request","Sorry! You have already sent a verification request.","13/6/2023 08:19:33","13/6/2023 08:19:33"
+"8077","en","you_are_not_verified_please_verify_your_shop_at_first","You are not verified, please verify your shop at first.","13/6/2023 12:11:49","13/6/2023 12:11:49"
+"8078","en","shop_not_verified","Shop not verified","14/6/2023 06:54:10","14/6/2023 06:54:10"
+"8079","en","verification_status","Verification Status","14/6/2023 11:01:38","14/6/2023 11:01:38"
+"8080","en","package_purchasing_failed","Package purchasing failed","14/6/2023 13:52:39","14/6/2023 13:52:39"
+"8081","en","please_verify_your_shop_at_first","Please verify your shop at first!","14/6/2023 13:55:29","14/6/2023 13:55:29"
+"8082","en","site_icon","Site Icon","14/6/2023 14:30:52","14/6/2023 14:30:52"
+"8083","en","site_icon_152x152_png","Site Icon. 152x152 .png","14/6/2023 14:30:53","14/6/2023 14:30:53"
+"8084","en","seller_product_manage_by_admin","Seller Product Manage By Admin","14/6/2023 14:44:25","14/6/2023 14:44:25"
+"8085","en","product_approval_update_successfully","Product approval update successfully","15/6/2023 06:42:44","15/6/2023 06:42:44"
+"8086","en","seller_order_manage_by_admin","Seller Order Manage By Admin","15/6/2023 07:27:47","15/6/2023 07:27:47"
+"8087","en","verification_information","Verification Information","15/6/2023 07:37:58","15/6/2023 07:37:58"
+"8088","en","you_are_not_verified_please_verify_at_first","You are not verified. Please verify at first.","15/6/2023 08:22:34","15/6/2023 08:22:34"
+"8089","en","sorry_nothing_found","Sorry, nothing found.
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8090","en","popular_suggestions","Popular Suggestions
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8091","en","category_suggestions","Category Suggestions
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8092","en","compare","compare
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8093","en","my_compared_list","My compared list
+","19/6/2023 11:34:07","17/7/2024 06:53:59"
+"8094","en","reset_list","reset list
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8095","en","compared_product_list_is_empty","compared product list is empty
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8096","en","downloads","Downloads
+","19/6/2023 11:34:07","19/6/2023 11:34:07"
+"8097","en","download_your_products","Download Your Products
+","19/6/2023 11:34:07","6/8/2023 07:07:31"
+"8098","en","forgot_password_","Forgot password ?","11/7/2023 08:26:07","11/7/2023 08:26:07"
+"8099","en","a_verification_code_has_been_sent_to_your_phone","A verification code has been sent to your phone.","11/7/2023 11:28:18","11/7/2023 11:28:18"
+"8100","en","you_verification_code_is_","You verification code is ","11/7/2023 12:26:57","11/7/2023 12:26:57"
+"8101","en","email_already_exists","Email already exists!","11/7/2023 12:32:08","11/7/2023 12:32:08"
+"8102","en","your_verification_request_has_been_submitted_successfully","Your verification request has been submitted successfully!","11/7/2023 13:41:55","11/7/2023 13:41:55"
+"8103","en","iyzico_credential","Iyzico Credential","13/7/2023 11:44:56","13/7/2023 11:44:56"
+"8104","en","iyzico_api_key","IYZICO_API_KEY","13/7/2023 11:44:58","13/7/2023 11:44:58"
+"8105","en","iyzico_secret_key","IYZICO_SECRET_KEY","13/7/2023 11:45:01","13/7/2023 11:45:01"
+"8106","en","iyzico_currency_code","IYZICO CURRENCY CODE","13/7/2023 11:45:01","13/7/2023 11:45:01"
+"8107","en","iyzico_sandbox_mode","IYZICO Sandbox Mode","13/7/2023 11:45:01","13/7/2023 11:45:01"
+"8108","en","paypal_email","Paypal Email
+","19/7/2023 08:39:39","15/12/2024 10:53:09"
+"8109","en","bank","Bank","19/7/2023 08:39:40","19/7/2023 08:39:40"
+"8110","en","no_action_available","No Action Available","19/7/2023 08:39:54","19/7/2023 08:39:54"
+"8111","en","affiliate_user_verification","Affiliate User Verification","19/7/2023 09:10:18","19/7/2023 09:10:18"
+"8112","en","seller_package_payment","Seller package payment","23/7/2023 10:20:11","23/7/2023 10:20:11"
+"8113","en","due_from_seller","Due from seller","23/7/2023 11:49:19","23/7/2023 11:49:19"
+"8114","en","paid_status_can_not_be_changed","Paid status can not be changed.","24/7/2023 12:57:21","24/7/2023 12:57:21"
+"8115","en","you_have_already_requested_for_affiliating","You have already requested for affiliating!","26/7/2023 09:40:34","26/7/2023 09:40:34"
+"8116","en","affiliate_user_has_been_approved_successfully","Affiliate user has been approved successfully","26/7/2023 10:17:09","26/7/2023 10:17:09"
+"8117","en","affiliate_user_request_has_been_rejected_successfully","Affiliate user request has been rejected successfully","27/7/2023 06:47:03","27/7/2023 06:47:03"
+"8118","en","select_main","Select Main","27/7/2023 06:55:11","27/7/2023 06:55:11"
+"8119","en","these_will_be_used_for_affiliate_system","These will be used for Affiliate System.","27/7/2023 06:55:12","27/7/2023 06:55:12"
+"8120","en","welcome","Welcome","31/7/2023 10:49:22","31/7/2023 10:49:22"
+"8121","en","select_a_main_category","Select a main category","31/7/2023 10:50:27","31/7/2023 10:50:27"
+"8122","en","affiliate_withdraw_request_has_been_rejected_successfully","Affiliate withdraw request has been rejected successfully","1/8/2023 10:04:46","1/8/2023 10:04:46"
+"8123","en","be_an_affiliate_partner","Be An Affiliate Partner
+","6/8/2023 07:07:31","6/8/2023 07:07:31"
+"8124","en","affiliate","Affiliate
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8125","en","affiliate_balance","Affiliate Balance
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8126","en","affiliate_status","Affiliate Status
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8127","en","affiliate_earning_history","Affiliate Earning History
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8128","en","affiliate_payment_history","Affiliate Payment History
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8129","en","affiliate_iinformations","Affiliate Iinformations
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8130","en","affiliate_withdraw_request_history","Affiliate Withdraw Request History
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8131","en","no_of_item","No Of Item
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8132","en","no_of_delivered","No Of Delivered
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8133","en","no_of_cancel","No Of Cancel
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8134","en","configure_payout","Configure Payout
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8135","en","payment_settings","Payment Settings
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8136","en","how_will_you_affiliate","How Will You Affiliate
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8137","en","privacy_policy","Privacy Policy
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8138","en","return_policy","Return Policy
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8139","en","and","And
+","6/8/2023 07:07:32","6/8/2023 07:07:32"
+"8140","en","copy_the_ppromote_link","Copy The Ppromote Link
+","6/8/2023 07:07:32","2/9/2023 06:31:05"
+"8141","en","this_product_is_not_avilable","This product is not avilable.","13/8/2023 12:36:21","13/8/2023 12:36:21"
+"8142","en","your_review_has_been_submittedid117shop_id6product_id14user_id8rating5commenttest_reviewimage2426status1viewed0created_at20230809t123100000000zupdated_at20230814t064511000000zdeleted_atnull","Your review has been submitted.{""id"":117,""shop_id"":6,""product_id"":14,""user_id"":8,""rating"":""5"",""comment"":""test review"",""image"":2426,""status"":1,""viewed"":0,""created_at"":""2023-08-09T12:31:00.000000Z"",""updated_at"":""2023-08-14T06:45:11.000000Z"",""deleted_at"":null}","14/8/2023 07:45:11","14/8/2023 07:45:11"
+"8143","en","view_all_notifications","View All Notifications
+","16/8/2023 13:44:02","2/9/2023 06:31:05"
+"8144","en","order_code_","Order code: ","16/8/2023 13:45:32","16/8/2023 13:45:32"
+"8145","en","has_been_","has been ","16/8/2023 13:47:55","16/8/2023 13:47:55"
+"8146","en","no_notification_found","No notification found","24/8/2023 11:23:06","24/8/2023 11:23:06"
+"8147","en","_has_been_confirmed"," has been Confirmed","24/8/2023 11:38:14","24/8/2023 11:38:14"
+"8148","en","order_notifications","Order Notifications","24/8/2023 11:50:24","24/8/2023 11:50:24"
+"8149","en","seller_notifications","Seller Notifications","24/8/2023 11:50:24","24/8/2023 11:50:24"
+"8150","en","_has_been_order_placed"," has been Order placed","24/8/2023 13:16:11","24/8/2023 13:16:11"
+"8151","en","saepe_soluta_exercit_has_been_registered","Saepe soluta exercit has been registered","24/8/2023 13:34:50","24/8/2023 13:34:50"
+"8152","en","saepe_soluta_exercit_has_been_applied_for_being_a_seller","Saepe soluta exercit has been applied for being a seller","24/8/2023 13:36:35","24/8/2023 13:36:35"
+"8153","en","has_been_order_placed","has been Order placed","24/8/2023 14:20:12","24/8/2023 14:20:12"
+"8154","en","your_seller_request_has_been_approved_","Your seller request has been approved! ","24/8/2023 14:43:12","24/8/2023 14:43:12"
+"8155","en","et_officia_officia_n_has_been_applied_for_being_a_seller","Et officia officia n has been applied for being a seller","24/8/2023 14:52:46","24/8/2023 14:52:46"
+"8156","en","consequatur_dolorem_has_been_applied_for_being_a_seller","Consequatur dolorem has been applied for being a seller","24/8/2023 14:54:10","24/8/2023 14:54:10"
+"8157","en","_has_been_applied_for_being_a_seller"," has been applied for being a seller","27/8/2023 07:07:46","27/8/2023 07:07:46"
+"8158","en","all_notifications","All Notifications
+","29/8/2023 11:06:26","2/9/2023 06:31:05"
+"8159","en","your_verification_request_has_been_rejected","Your verification request has been rejected","29/8/2023 12:01:52","29/8/2023 12:01:52"
+"8160","en","your_verification_request_has_been_approved","Your verification request has been Approved","29/8/2023 12:01:53","29/8/2023 12:01:53"
+"8161","en","_has_been_applied_for_verify"," has been applied for verify","30/8/2023 14:34:04","30/8/2023 14:34:04"
+"8162","en","compare_list","Compare List
+","2/9/2023 06:31:05","2/9/2023 06:31:05"
+"8163","en","affiliate_informations","Affiliate Informations
+","19/9/2023 08:20:12","19/9/2023 08:20:12"
+"8164","en","your_name","Your Name
+","19/9/2023 08:20:12","19/9/2023 08:20:12"
+"8165","en","your_email","Your Email
+","19/9/2023 08:20:12","19/9/2023 08:20:12"
+"8166","en","full_address","Full Address
+","19/9/2023 08:20:13","19/9/2023 08:20:13"
+"8167","en","has_been","Has Been
+","19/9/2023 08:20:13","17/7/2024 06:53:59"
+"8168","en","no_of_click","No Of Click
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8169","en","completed_delivery","Completed Delivery
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8170","en","pending_delivery","Pending Delivery
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8171","en","total_collected","Total Collected
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8172","en","earnings_list","Earnings List
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8173","en","collections_list","Collections List
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8174","en","total_earnings","Total Earnings
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8175","en","picked_up","Picked Up
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8176","en","assigned_delivery_history","Assigned Delivery History
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8177","en","picked_up_delivery_history","Picked Up Delivery History
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8178","en","on_the_way_delivery_history","On The Way Delivery History
+","17/7/2024 06:53:59","17/7/2024 06:53:59"
+"8179","en","assigned_delivery","Assigned Delivery
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8180","en","assigned_deliveries","Assigned Deliveries
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8181","en","completed_deliveries","Completed Deliveries
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8182","en","picked_up_delivery","Picked Up Delivery
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8183","en","picked_up_deliveries","Picked Up Deliveries
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8184","en","on_the_way_delivery","On The Way Delivery
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8185","en","on_the_way_deliveries","On The Way Deliveries
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8186","en","pending_deliveries","Pending Deliveries
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8187","en","cancelled_delivery","Cancelled Delivery
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8188","en","cancelled_deliveries","Cancelled Deliveries
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8189","en","request_to_cancel","Request To Cancel
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8190","en","total_collection","Total Collection
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8191","en","registration_for_affiliate_is_successful","Registration For Affiliate Is Successful
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8192","en","please_wait_for_admin_approval","Please Wait For Admin Approval
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8193","en","copy_the_promote_link","Copy The Promote Link
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8194","en","link_copied_successfully","Link Copied Successfully
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8195","en","collection_history","Collection History
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8196","en","please_login_as_a_customer_first_to_add_product_to_the_cart","Please login as a customer first to add product to the cart
+","17/7/2024 06:54:00","17/7/2024 06:54:00"
+"8197","en","delivery_boy_login_page","Delivery boy login page
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8198","en","this_is_only_for_delivery_boy_login","This is only for delivery boy login
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8199","en","reorder","Reorder
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8200","en","pickup_point","Pickup Point
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8201","en","home_delivery","Home Delivery
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8202","en","pickup","Pickup
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8203","en","contact_to_seller","Contact to seller
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8204","en","pickup_available","Pickup Available
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8205","en","view_pickup_policy","View Pickup Policy
+","17/7/2024 06:54:01","17/7/2024 06:54:01"
+"8206","en","myfatoorah","MyFatoorah
+","17/7/2024 06:54:05","15/12/2024 10:53:09"
+"8207","en","phonepe","Phonepe
+","17/7/2024 06:54:05","17/7/2024 06:55:05"
+"8208","en","payhere","Payhere
+","17/7/2024 06:54:05","17/7/2024 06:55:06"
+"8209","en","bank_informations","Bank Informations
+","15/12/2024 10:53:09","15/12/2024 10:53:09"
+"8210","en","convert_to_wallet","Convert To Wallet
+","15/12/2024 10:53:09","15/12/2024 10:53:09"
+"8211","en","affiliate_balance_convert_to_wallet","Affiliate Balance Convert To Wallet
+","15/12/2024 10:53:09","15/12/2024 10:53:09"
+"8212","en","login_as_a_delivery_boy","Login As A Delivery Boy
+","15/12/2024 10:53:09","15/12/2024 10:53:09"
+"8213","en","search_in_menu","Search in menu","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8214","en","delivery_boy","Delivery Boy","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8215","en","all_delivery_boy","All Delivery Boy","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8216","en","add_delivery_boy","Add Delivery Boy","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8217","en","delivery_boy_configurations","Delivery Boy Configurations","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8218","en","cancel_request","Cancel Request","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8219","en","payment_histories","Payment Histories","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8220","en","collections_histories","Collections Histories","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8221","en","pickup_points","Pickup Points","15/12/2024 10:53:23","15/12/2024 10:53:23"
+"8222","en","pickup_point_activation","Pickup Point Activation","15/12/2024 10:53:52","15/12/2024 10:53:52"
+"8223","en","confirm_with_wallet","Confirm with Wallet","15/12/2024 10:53:54","15/12/2024 10:53:54"
+"8224","en","bulk_action","Bulk Action","15/12/2024 10:54:00","15/12/2024 10:54:00"
+"8225","en","delete_selection","Delete selection","15/12/2024 10:54:00","15/12/2024 10:54:00"
+"8226","en","are_you_sure_to_delete_these_files","Are you sure to delete these files?","15/12/2024 10:54:00","15/12/2024 10:54:00"
+"8227","en","all_delivery_boys","All Delivery Boys","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8228","en","add_new_delivery_boy","Add New Delivery Boy","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8229","en","delivery_boys","Delivery Boys","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8230","en","earning","Earning","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8231","en","collection","Collection","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8232","en","do_you_really_want_to_ban_this_delivery_boy","Do you really want to ban this delivery boy?","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8233","en","do_you_really_want_to_unban_this_delivery_boy","Do you really want to unban this delivery boy?","15/12/2024 10:54:20","15/12/2024 10:54:20"
+"8234","en","generate_sitemap","Generate Sitemap","15/12/2024 10:55:48","15/12/2024 10:55:48"
+"8235","en","set_cookie_message","Set Cookie Message","15/12/2024 10:55:48","15/12/2024 10:55:48"
+"8236","en","cookie_title","Cookie Title","15/12/2024 10:55:48","15/12/2024 10:55:48"
+"8237","en","cookie_content","Cookie Content","15/12/2024 10:55:48","15/12/2024 10:55:48"
+"8238","en","you_can_not_login_from_here_this_panel_is_only_for_customer","You can not login from here. This panel is only for customer","15/12/2024 11:10:02","15/12/2024 11:10:02"
+"8239","en","select_all","Select All","15/12/2024 12:01:42","15/12/2024 12:01:42"
+"8240","en","current_stock","Current Stock","15/12/2024 13:17:08","15/12/2024 13:17:08"
+"8241","en","enable_for_pickup_point","Enable for pickup point","15/12/2024 13:17:08","15/12/2024 13:17:08"
+"8242","en","myfatoorah_credential","MyFatoorah Credential","15/12/2024 14:11:14","15/12/2024 14:11:14"
+"8243","en","myfatoorah_token","MYFATOORAH TOKEN","15/12/2024 14:11:14","15/12/2024 14:11:14"
+"8244","en","myfatoorah_country_iso","MYFATOORAH COUNTRY ISO","15/12/2024 14:11:14","15/12/2024 14:11:14"
+"8245","en","phonepe_credential","Phonepe Credential","15/12/2024 14:11:14","15/12/2024 14:11:14"
+"8246","en","phonepe_merchant_id","PHONEPE MERCHANT ID","15/12/2024 14:11:14","15/12/2024 14:11:14"
+"8247","en","phonepe_salt_key","PHONEPE_SALT KEY","15/12/2024 14:11:15","15/12/2024 14:11:15"
+"8248","en","phonepesalt_key","PHONEPESALT KEY","15/12/2024 14:11:15","15/12/2024 14:11:15"
+"8249","en","phonepe_salt_index","PHONEPE SALT INDEX","15/12/2024 14:11:15","15/12/2024 14:11:15"
+"8250","en","order_paid","Order Paid","15/12/2024 14:12:52","15/12/2024 14:12:52"
+"8251","en","order_cancelled","Order Cancelled","15/12/2024 14:12:52","15/12/2024 14:12:52"
+"8252","en","customer_login_page_banner__link","Customer login page banner & link","15/12/2024 23:09:42","15/12/2024 23:09:42"
+"8253","en","delivery_boy_login_page_banner__link","Delivery boy login page banner & link","15/12/2024 23:09:42","15/12/2024 23:09:42"
+"8254","en","language_has_been_updated_successfully","Language has been updated successfully","15/12/2024 23:10:14","15/12/2024 23:10:14"

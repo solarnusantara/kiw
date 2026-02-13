@@ -1,0 +1,48 @@
+{
+    "private": true,
+	"type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@vue/compiler-sfc": "^3.1.0",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.8",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "^1.69.5",
+        "vite": "^4.5.1",
+        "vite-plugin-sass": "^0.1.0"
+    },
+    "dependencies": {
+        "@chenfengyuan/vue-number-input": "^2.0.1",
+        "@handcrafted-market/vue3-numeric": "^1.0.4",
+        "@mdi/font": "^7.3.67",
+        "@unhead/vue": "^1.9.11",
+        "@vitejs/plugin-vue": "^4.4.1",
+        "@vitejs/plugin-vue-jsx": "^4.1.1",
+        "@vuelidate/core": "^2.0.3",
+        "@vuelidate/validators": "^2.0.4",
+        "@vueuse/head": "^2.0.0",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "line-awesome": "^1.3.0",
+        "sass-loader": "^13.3.2",
+        "swiper": "^11.0.5",
+        "vue": "^3.3.11",
+        "vue-i18n": "^9.6.5",
+        "vue-lazyload": "^3.0.0",
+        "vue-meta": "^2.4.0",
+        "vue-router": "^4.0.13",
+        "vue-slick-carousel": "^1.0.6",
+        "vue-social-sharing": "^4.0.0-alpha4",
+        "vue-tel-input": "^8.3.1",
+        "vue3-flip-countdown": "^0.1.6",
+        "vue3-recaptcha-v2": "^2.1.0",
+        "vuetify": "^3.4.1",
+        "vuex": "^4.0.2"
+    },
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
