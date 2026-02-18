@@ -20,7 +20,7 @@ Alur transaksi B2B memiliki beberapa perbedaan kunci dibandingkan B2C.
 ### 2.1. Penemuan Produk & Negosiasi (Opsional)
 
 * **Katalog Tersegmentasi:** Harga produk dapat ditampilkan berbeda untuk grup pelanggan yang berbeda (misal: Pelanggan Gold mendapatkan diskon 10% untuk semua produk). Ini dikelola oleh Admin Platform melalui fitur _Offers_ atau kustomisasi pada level grup pelanggan.
-* **Permintaan Penawaran (Request for Quote - RFQ):** Pelanggan B2B dapat mengumpulkan produk dalam jumlah besar ke dalam keranjang dan mengajukan RFQ alih-alih langsung _checkout_. Admin Penjual atau Admin Platform kemudian dapat merespons dengan harga khusus.
+* **Permintaan Penawaran (Request for Quote - RFQ):** Pelanggan B2B dapat mengumpulkan produk dalam jumlah besar ke dalam keranjang dan mengajukan RFQ alih-alih langsung _checkout_. Admin Platform kemudian dapat merespons dengan harga khusus.
 
 ### 2.2. Alur Pemesanan & Persetujuan
 

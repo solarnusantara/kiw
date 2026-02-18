@@ -11,7 +11,6 @@ Setelah login, Anda akan disambut oleh Dasbor utama. Halaman ini memberikan ring
 * Total penjualan
 * Jumlah pesanan
 * Jumlah pelanggan
-* Jumlah penjual (jika fitur multi-vendor aktif)
 * Grafik penjualan dalam rentang waktu tertentu.
 
 ## 2. Manajemen Katalog Produk
@@ -26,8 +25,7 @@ Bagian ini digunakan untuk mengelola semua aspek yang berkaitan dengan produk.
   * **Edit & Hapus Produk:** Mengubah detail produk yang sudah ada atau menghapusnya.
   * **Kelola Varian:** Menentukan varian produk berdasarkan atribut (misal: Baju dengan varian Ukuran S/M/L dan Warna Merah/Biru).
   * **Publikasi:** Mengatur status produk (dipublikasikan atau draft).
-  * **Persetujuan Produk Penjual:** Jika multi-vendor aktif, admin dapat menyetujui atau menolak produk yang diunggah oleh penjual.
-
+  
 ### 2.2. Kategori, Merek, dan Atribut
 
 * **Lokasi:** `Produk > Kategori` / `Merek` / `Atribut`

@@ -2,7 +2,7 @@
 
 ## 1. Gambaran Umum Lingkup Proyek
 
-Dokumen ini menguraikan lingkup pekerjaan untuk pengembangan **Platform E-commerce KIW B2B**. Platform ini adalah solusi e-commerce komprehensif yang dirancang khusus untuk transaksi _Business-to-Business_ (B2B), namun tetap fleksibel untuk digunakan dalam skenario _Business-to-Consumer_ (B2C).
+Dokumen ini menguraikan lingkup pekerjaan untuk pengembangan **Platform E-commerce KIW B2B**. Platform ini adalah solusi e-commerce komprehensif yang dirancang khusus untuk transaksi _Business-to-Business_ (B2B) dalam model **single-vendor**, namun tetap fleksibel untuk digunakan dalam skenario _Business-to-Consumer_ (B2C).
 
 ## 2. Lingkup Pengerjaan (In Scope)
 
@@ -37,17 +37,10 @@ Fitur-fitur dan fungsionalitas berikut akan dikembangkan dan diimplementasikan d
 ### Panel Admin
 
 * **Dasbor Komprehensif:** Tampilan terpusat untuk memantau seluruh aktivitas platform.
-* **Manajemen Pengguna dan Peran:** Kontrol penuh atas akun pengguna (admin, penjual, pelanggan) dan hak aksesnya menggunakan _Role-Based Access Control_ (RBAC).
+* **Manajemen Pengguna dan Peran:** Kontrol penuh atas akun pengguna (admin, pelanggan) dan hak aksesnya menggunakan _Role-Based Access Control_ (RBAC).
 * **Manajemen Produk dan Inventaris:** Pengelolaan lengkap atas semua produk, stok, dan gudang.
 * **Manajemen Pesanan dan Pembayaran:** Pemantauan dan pengelolaan semua transaksi.
 * **Laporan dan Analitik:** Laporan penjualan, pelanggan, dan performa produk.
-
-### Portal Penjual (Seller Portal)
-
-* **Portal Khusus:** Antarmuka khusus bagi penjual untuk mengelola operasional mereka.
-* **Manajemen Produk dan Pesanan Penjual:** Penjual dapat mengunggah produk, mengelola stok, dan memproses pesanan mereka sendiri.
-* **Manajemen Keuangan Penjual:** Laporan pendapatan, penarikan dana (_withdrawal_).
-* **Pendaftaran dan Verifikasi Penjual:** Alur untuk pendaftaran dan persetujuan penjual baru.
 
 ### Manajemen Kurir (Delivery Boy)
 
